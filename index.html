@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EV Charging Site Selection Dashboard</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f7fb;
+      color: #1f2937;
+    }
+
+    header {
+      background: #16324f;
+      color: white;
+      padding: 25px 40px;
+    }
+
+    header h1 {
+      margin: 0 0 7px;
+      font-size: 28px;
+    }
+
+    header p {
+      margin: 0;
+      opacity: 0.85;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: auto;
+      padding: 25px;
+    }
+
+    .filters {
+      background: white;
+      padding: 18px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 15px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    select {
+      width: 100%;
+      padding: 9px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+
+    label {
+      font-size: 13px;
+      font-weight: bold;
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+      margin-bottom: 20px;
+    }
+
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    .card h3 {
+      margin: 0;
+      font-size: 14px;
+      color: #64748b;
+    }
+
+    .card .value {
+      margin-top: 8px;
+      font-size: 27px;
+      font-weight: bold;
+      color: #16324f;
+    }
+
+    .charts {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+      gap: 20px;
+    }
+
+    .chart-box {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+      min-height: 380px;
+    }
+
+    .chart-box h2 {
+      font-size: 17px;
+      margin-top: 0;
+    }
+
+    .chart-container {
+      height: 310px;
+    }
+
+    .table-section {
+      background: white;
+      margin-top: 20px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+      overflow-x: auto;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      font-size: 13px;
+    }
+
+    th, td {
+      border-bottom: 1px solid #ddd;
+      padding: 10px;
+      text-align: left;
+      white-space: nowrap;
+    }
+
+    th {
+      background: #eef3f8;
+    }
+
+    .note {
+      font-size: 12px;
+      color: #64748b;
+      margin-top: 10px;
+    }
+
+    #error {
+      background: #fee2e2;
+      color: #991b1b;
+      padding: 15px;
+      display: none;
+      border-radius: 8px;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>EV Charging Site Selection Dashboard</h1>
+  <p>Data-driven comparison of candidate and existing EV charging locations</p>
+</header>
+
+<div class="container">
+
+  <div id="error"></div>
+
+  <div class="filters">
+
+    <div>
+      <label>Site Status</label>
+      <select id="statusFilter">
+        <option value="All">All</option>
+      </select>
+    </div>
+
+    <div>
+      <label>Charger Type</label>
+      <select id="chargerFilter">
+        <option value="All">All</option>
+      </select>
+    </div>
+
+    <div>
+      <label>Founder Decision</label>
+      <select id="decisionFilter">
+        <option value="All">All</option>
+      </select>
+    </div>
+
+    <div>
+      <label>Parking Type</label>
+      <select id="parkingFilter">
+        <option value="All">All</option>
+      </select>
+    </div>
+
+  </div>
+
+  <div class="cards">
+
+    <div class="card">
+      <h3>Total Sites</h3>
+      <div class="value" id="totalSites">0</div>
+    </div>
+
+    <div class="card">
+      <h3>Candidate Sites</h3>
+      <div class="value" id="candidateSites">0</div>
+    </div>
+
+    <div class="card">
+      <h3>Existing Sites</h3>
+      <div class="value" id="existingSites">0</div>
+    </div>
+
+    <div class="card">
+      <h3>Avg. Expected Sessions / Day</h3>
+      <div class="value" id="avgExpected">0</div>
+    </div>
+
+    <div class="card">
+      <h3>Avg. Installation Cost</h3>
+      <div class="value" id="avgCost">$0</div>
+    </div>
+
+  </div>
+
+  <div class="charts">
+
+    <div class="chart-box">
+      <h2>Expected Charging Sessions by Charger Type</h2>
+      <div class="chart-container">
+        <canvas id="chargerChart"></canvas>
+      </div>
+    </div>
+
+    <div class="chart-box">
+      <h2>EV Registrations vs Expected Charging Sessions</h2>
+      <div class="chart-container">
+        <canvas id="evChart"></canvas>
+      </div>
+    </div>
+
+    <div class="chart-box">
+      <h2>Installation Cost vs Expected Charging Sessions</h2>
+      <div class="chart-container">
+        <canvas id="costChart"></canvas>
+      </div>
+    </div>
+
+    <div class="chart-box">
+      <h2>Nearby Competition vs Expected Charging Sessions</h2>
+      <div class="chart-container">
+        <canvas id="competitionChart"></canvas>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="table-section">
+
+    <h2>Site Comparison</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Site ID</th>
+          <th>Status</th>
+          <th>Charger Type</th>
+          <th>Decision</th>
+          <th>EV Registrations</th>
+          <th>Vehicle Traffic</th>
+          <th>Nearby Ports</th>
+          <th>Amenities</th>
+          <th>Install Cost</th>
+          <th>Expected Sessions</th>
+          <th>Actual Sessions</th>
+        </tr>
+      </thead>
+
+      <tbody id="siteTable"></tbody>
+    </table>
+
+    <p class="note">
+      Actual charging sessions are displayed only when observed values are available for operating sites.
+    </p>
+
+  </div>
+
+</div>
+
+<script>
+
+const CSV_FILE = "Team_6_EV_Charging_Synthetic_Dataset.csv.csv";
+
+let allData = [];
+
+let chargerChart;
+let evChart;
+let costChart;
+let competitionChart;
+
+
+function number(value) {
+  const n = parseFloat(value);
+  return isNaN(n) ? null : n;
+}
+
+
+function average(values) {
+
+  const valid = values.filter(v => v !== null && !isNaN(v));
+
+  if (!valid.length) return 0;
+
+  return valid.reduce((a,b) => a+b,0) / valid.length;
+}
+
+
+function uniqueValues(column) {
+
+  return [...new Set(
+    allData
+      .map(row => row[column])
+      .filter(v => v !== undefined && v !== null && v !== "")
+  )].sort();
+}
+
+
+function populateFilter(id, column) {
+
+  const select = document.getElementById(id);
+
+  uniqueValues(column).forEach(value => {
+
+    const option = document.createElement("option");
+
+    option.value = value;
+    option.textContent = value;
+
+    select.appendChild(option);
+
+  });
+}
+
+
+function filteredData() {
+
+  const status = document.getElementById("statusFilter").value;
+  const charger = document.getElementById("chargerFilter").value;
+  const decision = document.getElementById("decisionFilter").value;
+  const parking = document.getElementById("parkingFilter").value;
+
+  return allData.filter(row =>
+
+    (status === "All" || row.Site_Status === status) &&
+    (charger === "All" || row.Charger_Type_Label === charger) &&
+    (decision === "All" || row.Founder_Decision === decision) &&
+    (parking === "All" || row.Parking_Type === parking)
+
+  );
+}
+
+
+function updateCards(data) {
+
+  document.getElementById("totalSites").textContent =
+    data.length.toLocaleString();
+
+  document.getElementById("candidateSites").textContent =
+    data.filter(row => row.Site_Status === "Candidate").length.toLocaleString();
+
+  document.getElementById("existingSites").textContent =
+    data.filter(row => row.Site_Status === "Existing").length.toLocaleString();
+
+  const expected = average(
+    data.map(row => number(row.Expected_Charging_Sessions_Per_Day))
+  );
+
+  document.getElementById("avgExpected").textContent =
+    expected.toFixed(1);
+
+  const cost = average(
+    data.map(row => number(row.Estimated_Installation_Cost_USD))
+  );
+
+  document.getElementById("avgCost").textContent =
+    "$" + Math.round(cost).toLocaleString();
+
+}
+
+
+function updateCharts(data) {
+
+  if (chargerChart) chargerChart.destroy();
+  if (evChart) evChart.destroy();
+  if (costChart) costChart.destroy();
+  if (competitionChart) competitionChart.destroy();
+
+
+  const chargerTypes = [...new Set(data.map(d => d.Charger_Type_Label))];
+
+  const chargerAverages = chargerTypes.map(type => {
+
+    return average(
+
+      data
+        .filter(d => d.Charger_Type_Label === type)
+        .map(d => number(d.Expected_Charging_Sessions_Per_Day))
+
+    );
+
+  });
+
+
+  chargerChart = new Chart(
+    document.getElementById("chargerChart"),
+    {
+      type: "bar",
+
+      data: {
+        labels: chargerTypes,
+
+        datasets: [{
+          label: "Average Expected Sessions / Day",
+          data: chargerAverages
+        }]
+      },
+
+      options: {
+        responsive: true,
+        maintainAspectRatio: false
+      }
+    }
+  );
+
+
+  evChart = new Chart(
+    document.getElementById("evChart"),
+    {
+      type: "scatter",
+
+      data: {
+        datasets: [{
+          label: "Sites",
+
+          data: data.map(row => ({
+            x: number(row.Local_EV_Registrations_in_ZIP_Code),
+            y: number(row.Expected_Charging_Sessions_Per_Day)
+          }))
+        }]
+      },
+
+      options: {
+
+        responsive: true,
+        maintainAspectRatio: false,
+
+        scales: {
+
+          x: {
+            title: {
+              display: true,
+              text: "Local EV Registrations"
+            }
+          },
+
+          y: {
+            title: {
+              display: true,
+              text: "Expected Sessions / Day"
+            }
+          }
+
+        }
+
+      }
+
+    }
+  );
+
+
+  costChart = new Chart(
+    document.getElementById("costChart"),
+    {
+      type: "scatter",
+
+      data: {
+        datasets: [{
+          label: "Sites",
+
+          data: data.map(row => ({
+            x: number(row.Estimated_Installation_Cost_USD),
+            y: number(row.Expected_Charging_Sessions_Per_Day)
+          }))
+        }]
+      },
+
+      options: {
+
+        responsive: true,
+        maintainAspectRatio: false,
+
+        scales: {
+
+          x: {
+            title: {
+              display: true,
+              text: "Estimated Installation Cost ($)"
+            }
+          },
+
+          y: {
+            title: {
+              display: true,
+              text: "Expected Sessions / Day"
+            }
+          }
+
+        }
+
+      }
+
+    }
+  );
+
+
+  competitionChart = new Chart(
+    document.getElementById("competitionChart"),
+    {
+      type: "scatter",
+
+      data: {
+        datasets: [{
+          label: "Sites",
+
+          data: data.map(row => ({
+            x: number(row.Competing_Charging_Ports_Within_2_Miles),
+            y: number(row.Expected_Charging_Sessions_Per_Day)
+          }))
+        }]
+      },
+
+      options: {
+
+        responsive: true,
+        maintainAspectRatio: false,
+
+        scales: {
+
+          x: {
+            title: {
+              display: true,
+              text: "Competing Charging Ports Within 2 Miles"
+            }
+          },
+
+          y: {
+            title: {
+              display: true,
+              text: "Expected Sessions / Day"
+            }
+          }
+
+        }
+
+      }
+
+    }
+  );
+
+}
+
+
+function updateTable(data) {
+
+  const tbody = document.getElementById("siteTable");
+
+  tbody.innerHTML = "";
+
+  data.slice(0,100).forEach(row => {
+
+    const tr = document.createElement("tr");
+
+    const actual =
+      row.Actual_Charging_Sessions_Per_Day &&
+      row.Actual_Charging_Sessions_Per_Day !== "NA"
+      ? row.Actual_Charging_Sessions_Per_Day
+      : "N/A";
+
+    tr.innerHTML = `
+      <td>${row.Site_ID}</td>
+      <td>${row.Site_Status}</td>
+      <td>${row.Charger_Type_Label}</td>
+      <td>${row.Founder_Decision}</td>
+      <td>${row.Local_EV_Registrations_in_ZIP_Code}</td>
+      <td>${row.Vehicle_Pass_Bys_Per_Day}</td>
+      <td>${row.Competing_Charging_Ports_Within_2_Miles}</td>
+      <td>${row.Amenities_Within_0_5_Mile_Walking_Distance}</td>
+      <td>$${Number(row.Estimated_Installation_Cost_USD).toLocaleString()}</td>
+      <td>${row.Expected_Charging_Sessions_Per_Day}</td>
+      <td>${actual}</td>
+    `;
+
+    tbody.appendChild(tr);
+
+  });
+
+}
+
+
+function updateDashboard() {
+
+  const data = filteredData();
+
+  updateCards(data);
+  updateCharts(data);
+  updateTable(data);
+
+}
+
+
+Papa.parse(CSV_FILE, {
+
+  download: true,
+  header: true,
+  skipEmptyLines: true,
+
+  complete: function(results) {
+
+    allData = results.data;
+
+    populateFilter("statusFilter", "Site_Status");
+    populateFilter("chargerFilter", "Charger_Type_Label");
+    populateFilter("decisionFilter", "Founder_Decision");
+    populateFilter("parkingFilter", "Parking_Type");
+
+    document
+      .querySelectorAll("select")
+      .forEach(select =>
+        select.addEventListener("change", updateDashboard)
+      );
+
+    updateDashboard();
+
+  },
+
+  error: function(error) {
+
+    const box = document.getElementById("error");
+
+    box.style.display = "block";
+
+    box.textContent =
+      "The dataset could not be loaded. Check that the CSV filename in GitHub matches: " +
+      CSV_FILE;
+
+  }
+
+});
+
+</script>
+
+</body>
+</html>
