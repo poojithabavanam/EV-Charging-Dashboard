@@ -1,0 +1,1001 @@
+Site_ID,Asking_Order,Property_Owner_Excitement_1_to_5,Pre_Existing_Relationship_0_No_1_Yes,Local_EV_Registrations_in_ZIP_Code,Vehicle_Pass_Bys_Per_Day,Pedestrian_Pass_Bys_Per_Day_Within_0_25_Miles,Distance_to_Nearest_Public_Charger_Miles,Competing_Charging_Ports_Within_2_Miles,Amenities_Within_0_5_Mile_Walking_Distance,Estimated_Installation_Cost_USD,Charger_Type_1_Level2_2_DCFast,Expected_Charging_Sessions_Per_Day,Founder_Decision,Relationship_Label,Charger_Type_Label,Site_Status,Parking_Type,Average_Dwell_Time_Minutes,Estimated_Monthly_Lease_USD,Lease_Term_Years,Actual_Charging_Sessions_Per_Day
+SITE_0001,1,5,1,1455,17647,2517,0.1,7,9,24300,1,16.3,Accepted,Yes,Level 2,Candidate,Parking Garage,91,2240,6,NA
+SITE_0002,2,5,0,1145,16648,1536,0.87,5,5,11200,1,13.1,Accepted,No,Level 2,Candidate,Commercial Parking Lot,121,1340,4,NA
+SITE_0003,3,4,0,1280,22404,2515,2.38,5,13,13800,1,21,Accepted,No,Level 2,Candidate,Street Parking,163,790,10,NA
+SITE_0004,4,4,0,529,9627,463,3.53,3,4,148000,2,10.4,Accepted,No,DC Fast,Candidate,Parking Garage,166,1000,10,NA
+SITE_0005,5,5,0,1060,16917,1460,3.03,2,10,111900,2,18.2,Accepted,No,DC Fast,Candidate,Parking Garage,132,2110,3,NA
+SITE_0006,6,4,1,692,11564,1072,3.32,2,3,21700,1,9.4,Accepted,Yes,Level 2,Candidate,Parking Garage,31,1340,10,NA
+SITE_0007,7,3,1,973,19542,1778,2.92,3,8,18000,1,14,Accepted,Yes,Level 2,Candidate,Parking Garage,75,1160,9,NA
+SITE_0008,8,2,0,881,6333,1376,2.06,3,10,23600,1,12.5,Delayed,No,Level 2,Candidate,Retail Parking Lot,110,740,1,NA
+SITE_0009,9,4,0,531,11789,1162,3.85,0,4,18900,1,11.3,Accepted,No,Level 2,Candidate,Parking Garage,35,1670,9,NA
+SITE_0010,10,5,0,679,11897,1696,3.41,2,7,133200,2,17.3,Accepted,No,DC Fast,Candidate,Street Parking,155,1080,9,NA
+SITE_0011,11,4,0,1290,15792,1044,1.48,5,8,15400,1,16.2,Accepted,No,Level 2,Candidate,Commercial Parking Lot,75,1900,8,NA
+SITE_0012,12,5,1,1004,9806,2145,0.1,4,8,18700,1,10.9,Accepted,Yes,Level 2,Candidate,Street Parking,165,1310,7,NA
+SITE_0013,13,4,0,364,5299,460,4.22,0,0,20900,1,6.7,Accepted,No,Level 2,Candidate,Street Parking,20,2550,6,NA
+SITE_0014,14,2,0,317,7934,613,2.79,2,0,13100,1,4,Accepted,No,Level 2,Candidate,Commercial Parking Lot,146,1640,8,NA
+SITE_0015,15,4,0,1105,12856,933,3.27,2,3,70300,2,12.4,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,100,350,9,NA
+SITE_0016,16,3,1,379,3939,917,1.29,4,1,138800,2,6.7,Accepted,Yes,DC Fast,Existing,Parking Garage,72,2300,2,2.6
+SITE_0017,17,3,0,1059,12480,1073,1.21,4,6,15600,1,11.5,Accepted,No,Level 2,Candidate,Parking Garage,120,370,2,NA
+SITE_0018,18,4,1,948,10960,1158,3.03,2,5,8000,1,12.5,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,80,1880,4,NA
+SITE_0019,19,3,1,533,5614,1220,1.41,4,7,18800,1,7.4,Accepted,Yes,Level 2,Existing,Parking Garage,145,950,8,1.8
+SITE_0020,20,4,0,327,2666,1115,4.64,0,3,69500,2,10.2,Accepted,No,DC Fast,Candidate,Retail Parking Lot,113,350,4,NA
+SITE_0021,21,3,0,671,13350,843,2.83,2,4,21700,1,9.4,Accepted,No,Level 2,Candidate,Commercial Parking Lot,169,1810,3,NA
+SITE_0022,22,3,0,800,8827,1294,2.45,2,7,12800,1,12.6,Accepted,No,Level 2,Candidate,Commercial Parking Lot,113,2600,5,NA
+SITE_0023,23,4,1,338,1589,56,2.84,1,0,24200,1,4.8,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,137,1070,4,NA
+SITE_0024,24,4,1,940,16368,1765,1.85,4,10,17500,1,12.9,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,129,1100,7,NA
+SITE_0025,25,3,0,473,11092,924,1.78,4,2,66400,2,9.2,Accepted,No,DC Fast,Candidate,Commercial Parking Lot,134,2490,8,NA
+SITE_0026,26,4,1,898,10274,1558,4.51,0,7,10900,1,13,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,96,650,6,NA
+SITE_0027,27,3,0,1054,15015,1736,1.97,5,6,19500,1,13.8,Delayed,No,Level 2,Candidate,Parking Garage,46,1550,7,NA
+SITE_0028,28,4,1,1105,10021,2164,0.1,6,8,144700,2,14.1,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,90,350,3,NA
+SITE_0029,29,4,1,448,7766,434,3.04,3,3,14800,1,4,Accepted,Yes,Level 2,Existing,Commercial Parking Lot,35,2750,2,0.1
+SITE_0030,30,5,0,1573,20193,2297,0.1,8,10,18400,1,16.1,Accepted,No,Level 2,Candidate,Retail Parking Lot,45,450,6,NA
+SITE_0031,31,1,0,848,10821,685,3.85,2,4,16000,1,14.7,Declined,No,Level 2,Candidate,Parking Garage,101,1580,8,NA
+SITE_0032,32,4,0,858,16633,943,1.44,4,9,10500,1,13.8,Accepted,No,Level 2,Existing,Retail Parking Lot,132,1270,5,13.9
+SITE_0033,33,5,0,919,16007,1123,1.66,5,4,149100,2,9.7,Accepted,No,DC Fast,Candidate,Parking Garage,165,2420,6,NA
+SITE_0034,34,4,0,866,9768,594,4,1,7,64000,2,12.6,Accepted,No,DC Fast,Candidate,Retail Parking Lot,41,2180,6,NA
+SITE_0035,35,5,1,789,13423,2123,4.98,1,11,131300,2,17.9,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,134,460,6,NA
+SITE_0036,36,3,1,657,6694,467,2.99,3,3,8300,1,7.6,Accepted,Yes,Level 2,Existing,Parking Garage,116,2420,10,8.1
+SITE_0037,37,4,0,880,10749,762,4.42,0,6,132700,2,15.2,Accepted,No,DC Fast,Candidate,Retail Parking Lot,130,2730,10,NA
+SITE_0038,38,3,0,1651,19958,2286,2.04,5,12,21300,1,18.1,Accepted,No,Level 2,Candidate,Parking Garage,157,2510,4,NA
+SITE_0039,39,2,0,818,11091,1490,4.93,1,7,97100,2,17.7,Delayed,No,DC Fast,Candidate,Parking Garage,82,1090,8,NA
+SITE_0040,40,3,0,1069,10889,783,2.65,4,7,23400,1,10.3,Accepted,No,Level 2,Candidate,Commercial Parking Lot,23,810,6,NA
+SITE_0041,41,3,0,50,6415,429,3.09,3,0,72900,2,5.3,Accepted,No,DC Fast,Candidate,Retail Parking Lot,92,2990,4,NA
+SITE_0042,42,2,0,766,11254,1206,0.91,5,4,17200,1,11,Delayed,No,Level 2,Candidate,Commercial Parking Lot,34,1990,8,NA
+SITE_0043,43,3,1,729,12573,1308,1.87,4,8,18100,1,9.1,Accepted,Yes,Level 2,Candidate,Parking Garage,134,1350,7,NA
+SITE_0044,44,3,0,206,5630,235,2.4,2,2,10600,1,5.8,Delayed,No,Level 2,Candidate,Street Parking,29,1500,7,NA
+SITE_0045,45,4,0,882,11217,966,3.85,1,5,24200,1,10,Accepted,No,Level 2,Candidate,Commercial Parking Lot,40,690,5,NA
+SITE_0046,46,4,0,388,5188,954,3.95,2,1,80700,2,9,Delayed,No,DC Fast,Candidate,Retail Parking Lot,85,1770,10,NA
+SITE_0047,47,1,0,448,8332,854,4.43,0,0,138100,2,10.9,Declined,No,DC Fast,Candidate,Commercial Parking Lot,92,2390,1,NA
+SITE_0048,48,4,0,631,13275,1020,3.4,1,9,12100,1,11.2,Accepted,No,Level 2,Candidate,Parking Garage,148,1210,3,NA
+SITE_0049,49,3,0,536,10130,778,2.68,4,7,23100,1,7.1,Declined,No,Level 2,Candidate,Commercial Parking Lot,133,2200,9,NA
+SITE_0050,50,4,1,1213,19886,1645,2.95,3,7,109000,2,16.4,Accepted,Yes,DC Fast,Candidate,Parking Garage,128,2480,4,NA
+SITE_0051,51,1,1,1382,17468,1969,1.73,5,7,13400,1,11.8,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,77,320,9,NA
+SITE_0052,52,5,1,564,8723,148,3.2,2,5,15000,1,5.9,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,133,930,6,NA
+SITE_0053,53,1,0,885,10084,584,4.42,2,3,24400,1,12.3,Declined,No,Level 2,Candidate,Parking Garage,105,1100,4,NA
+SITE_0054,54,2,0,887,16313,1017,2.94,2,9,75500,2,15.9,Accepted,No,DC Fast,Candidate,Retail Parking Lot,160,1730,3,NA
+SITE_0055,55,3,1,1004,22266,1588,1.52,6,6,131400,2,14.6,Accepted,Yes,DC Fast,Candidate,Parking Garage,76,2910,4,NA
+SITE_0056,56,5,0,235,5237,50,1.47,4,3,80400,2,4.3,Accepted,No,DC Fast,Candidate,Retail Parking Lot,86,2880,10,NA
+SITE_0057,57,5,0,736,10231,1284,2.82,3,9,92400,2,13.3,Accepted,No,DC Fast,Candidate,Retail Parking Lot,101,2830,3,NA
+SITE_0058,58,4,0,590,11423,1334,2.65,4,5,24400,1,9.4,Accepted,No,Level 2,Candidate,Parking Garage,73,980,2,NA
+SITE_0059,59,1,1,50,2776,856,3.26,2,3,69500,2,5.5,Accepted,Yes,DC Fast,Candidate,Street Parking,177,440,8,NA
+SITE_0060,60,4,1,50,10051,731,3.1,4,0,85600,2,5.4,Accepted,Yes,DC Fast,Candidate,Street Parking,136,1470,5,NA
+SITE_0061,61,4,1,1089,15800,1960,0.1,5,13,24600,1,15.6,Accepted,Yes,Level 2,Candidate,Street Parking,121,1940,3,NA
+SITE_0062,62,2,0,1046,11723,1691,1.05,4,7,10900,1,13.2,Delayed,No,Level 2,Candidate,Street Parking,77,2940,8,NA
+SITE_0063,63,5,0,394,5999,1421,2.15,4,3,16900,1,4.7,Accepted,No,Level 2,Candidate,Commercial Parking Lot,152,2420,8,NA
+SITE_0064,64,3,0,1062,12186,1502,0.94,5,5,62300,2,11,Accepted,No,DC Fast,Candidate,Parking Garage,67,2320,4,NA
+SITE_0065,65,3,1,643,7720,1279,0.63,4,7,9400,1,6.7,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,135,2960,7,NA
+SITE_0066,66,4,0,392,9253,180,2.66,3,3,75200,2,7.6,Delayed,No,DC Fast,Candidate,Parking Garage,104,2310,10,NA
+SITE_0067,67,5,0,1113,13762,1846,1.63,5,8,16900,1,11.7,Accepted,No,Level 2,Candidate,Parking Garage,147,2140,9,NA
+SITE_0068,68,3,0,552,11376,733,2.6,2,5,113200,2,11,Delayed,No,DC Fast,Candidate,Parking Garage,145,1740,5,NA
+SITE_0069,69,5,0,654,14902,1075,2.62,4,10,18500,1,10.8,Accepted,No,Level 2,Candidate,Retail Parking Lot,105,2970,8,NA
+SITE_0070,70,5,0,1209,15102,1173,3.06,3,6,21500,1,10.8,Accepted,No,Level 2,Existing,Commercial Parking Lot,145,540,7,11.2
+SITE_0071,71,2,1,1214,18017,1887,4.92,2,9,80900,2,17.7,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,80,1950,6,NA
+SITE_0072,72,3,1,760,9560,1503,1.98,4,4,18300,1,9.4,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,165,1720,2,NA
+SITE_0073,73,5,1,1370,17261,2178,1.84,4,8,24700,1,14.6,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,120,1320,3,NA
+SITE_0074,74,2,1,1684,20431,2189,1.59,4,11,14700,1,19.2,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,23,1030,8,NA
+SITE_0075,75,4,1,645,13328,1507,1.86,4,2,20600,1,9.1,Accepted,Yes,Level 2,Candidate,Parking Garage,136,800,3,NA
+SITE_0076,76,5,0,373,6583,881,4.01,2,2,11300,1,6.9,Accepted,No,Level 2,Existing,Retail Parking Lot,82,2100,4,4.7
+SITE_0077,77,5,0,476,7568,935,4.4,0,5,25000,1,9.5,Accepted,No,Level 2,Candidate,Retail Parking Lot,128,620,4,NA
+SITE_0078,78,3,0,338,8454,474,2.81,2,1,21900,1,6.7,Delayed,No,Level 2,Candidate,Retail Parking Lot,130,780,2,NA
+SITE_0079,79,4,0,1067,13779,1356,4.72,0,4,14800,1,14.4,Accepted,No,Level 2,Candidate,Street Parking,136,1680,1,NA
+SITE_0080,80,2,1,1341,15041,2236,1.45,5,12,18600,1,15.2,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,62,1630,8,NA
+SITE_0081,81,4,1,811,12626,1930,3.79,1,6,18400,1,15.9,Accepted,Yes,Level 2,Candidate,Parking Garage,139,2160,1,NA
+SITE_0082,82,1,1,217,9850,449,1.92,3,7,15000,1,5.9,Accepted,Yes,Level 2,Candidate,Parking Garage,140,2050,5,NA
+SITE_0083,83,2,1,532,11976,1009,3.09,2,3,80000,2,11.8,Accepted,Yes,DC Fast,Candidate,Street Parking,137,1200,7,NA
+SITE_0084,84,1,0,1307,12791,1757,0.24,6,7,16700,1,12.2,Delayed,No,Level 2,Candidate,Parking Garage,159,960,10,NA
+SITE_0085,85,4,1,182,3166,950,3.74,0,3,9100,1,6.8,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,165,1070,2,NA
+SITE_0086,86,1,1,773,15175,1124,2.7,3,6,8500,1,10.7,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,106,1890,2,NA
+SITE_0087,87,5,1,611,14148,719,5.04,1,8,20100,1,13.7,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,26,2800,6,NA
+SITE_0088,88,1,1,1311,14259,1502,0.29,7,9,15100,1,13.5,Delayed,Yes,Level 2,Candidate,Street Parking,25,2850,4,NA
+SITE_0089,89,4,0,923,13615,498,5.42,0,5,11100,1,14.6,Accepted,No,Level 2,Existing,Retail Parking Lot,180,2070,9,13.8
+SITE_0090,90,4,1,631,8752,1515,1.07,4,3,16500,1,9.1,Accepted,Yes,Level 2,Existing,Street Parking,171,1080,2,4.6
+SITE_0091,91,1,0,239,1000,787,3.24,2,3,18600,1,5.7,Declined,No,Level 2,Candidate,Street Parking,104,2050,8,NA
+SITE_0092,92,5,1,717,14501,1038,3.21,3,6,15800,1,11.4,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,133,450,2,NA
+SITE_0093,93,2,0,50,4480,969,3.52,1,9,21700,1,8.3,Delayed,No,Level 2,Candidate,Parking Garage,92,2110,6,NA
+SITE_0094,94,4,0,604,10779,1258,1.81,4,4,104100,2,9.4,Delayed,No,DC Fast,Candidate,Street Parking,44,1110,6,NA
+SITE_0095,95,3,0,1189,22289,1420,1.55,5,11,23500,1,15.8,Delayed,No,Level 2,Candidate,Parking Garage,85,1850,1,NA
+SITE_0096,96,3,0,1272,18580,1353,0.14,5,11,62900,2,16.6,Delayed,No,DC Fast,Candidate,Street Parking,84,2200,2,NA
+SITE_0097,97,2,0,1428,20278,1925,0.39,4,8,14800,1,16.3,Delayed,No,Level 2,Candidate,Commercial Parking Lot,158,1220,6,NA
+SITE_0098,98,3,0,962,11515,772,4.41,0,7,92200,2,15.1,Delayed,No,DC Fast,Candidate,Retail Parking Lot,41,1190,7,NA
+SITE_0099,99,5,0,749,13535,1087,2.18,2,3,24600,1,10.7,Accepted,No,Level 2,Candidate,Retail Parking Lot,158,2710,1,NA
+SITE_0100,100,3,1,1255,16262,1123,2.55,3,8,17500,1,12.9,Accepted,Yes,Level 2,Candidate,Street Parking,57,2600,5,NA
+SITE_0101,101,4,1,910,16074,1169,2.98,4,10,13600,1,13.1,Accepted,Yes,Level 2,Candidate,Street Parking,162,1980,6,NA
+SITE_0102,102,2,0,1100,17141,2105,2.56,4,10,14100,1,14.6,Delayed,No,Level 2,Candidate,Retail Parking Lot,129,2990,7,NA
+SITE_0103,103,3,0,547,6227,661,4.32,1,2,9300,1,6.2,Accepted,No,Level 2,Candidate,Retail Parking Lot,173,490,10,NA
+SITE_0104,104,4,0,459,7245,476,4.22,2,7,113600,2,10.6,Accepted,No,DC Fast,Existing,Retail Parking Lot,152,1430,2,9.4
+SITE_0105,105,4,1,403,7755,582,2.28,3,3,9800,1,4.8,Accepted,Yes,Level 2,Candidate,Parking Garage,122,2560,8,NA
+SITE_0106,106,4,0,928,12002,1512,0.36,6,11,13800,1,10.5,Accepted,No,Level 2,Candidate,Retail Parking Lot,141,1160,9,NA
+SITE_0107,107,5,0,94,9674,705,2.52,3,4,10200,1,5.3,Accepted,No,Level 2,Candidate,Parking Garage,165,2190,4,NA
+SITE_0108,108,5,1,1251,12877,1914,1.13,6,11,11800,1,12.8,Accepted,Yes,Level 2,Candidate,Street Parking,137,1140,5,NA
+SITE_0109,109,4,0,425,7314,629,3.63,3,4,14500,1,6.7,Accepted,No,Level 2,Candidate,Retail Parking Lot,95,340,10,NA
+SITE_0110,110,5,0,818,18826,874,1.73,4,5,119600,2,14.1,Accepted,No,DC Fast,Candidate,Retail Parking Lot,148,1290,10,NA
+SITE_0111,111,3,1,1028,7670,619,5.76,2,5,15300,1,11.7,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,55,1450,1,NA
+SITE_0112,112,2,0,1065,9749,961,4.2,3,7,17100,1,11.6,Declined,No,Level 2,Candidate,Commercial Parking Lot,178,1550,8,NA
+SITE_0113,113,4,0,1203,17678,2716,0.1,8,12,17700,1,15.4,Accepted,No,Level 2,Candidate,Retail Parking Lot,174,2380,1,NA
+SITE_0114,114,3,1,1078,11613,1362,2.29,3,4,17800,1,8.2,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,93,520,2,NA
+SITE_0115,115,4,0,752,10665,1565,2.59,3,6,16800,1,10,Accepted,No,Level 2,Candidate,Retail Parking Lot,81,650,8,NA
+SITE_0116,116,4,0,929,12625,1040,2.28,3,3,91400,2,10.1,Delayed,No,DC Fast,Candidate,Street Parking,144,2690,7,NA
+SITE_0117,117,5,0,755,18408,1910,1.92,3,8,20500,1,12.6,Accepted,No,Level 2,Candidate,Parking Garage,69,450,1,NA
+SITE_0118,118,4,0,1291,22494,1539,2.37,5,13,14100,1,16.4,Accepted,No,Level 2,Candidate,Street Parking,112,720,7,NA
+SITE_0119,119,4,1,470,6352,732,3.46,2,3,12200,1,7.6,Accepted,Yes,Level 2,Candidate,Parking Garage,137,2430,8,NA
+SITE_0120,120,2,0,828,12972,1807,2.91,3,8,21300,1,13.6,Accepted,No,Level 2,Candidate,Parking Garage,90,950,3,NA
+SITE_0121,121,3,0,313,4584,50,3.57,0,2,13800,1,6,Delayed,No,Level 2,Candidate,Commercial Parking Lot,123,2460,6,NA
+SITE_0122,122,4,0,1186,16174,2542,0.29,5,8,20000,1,13.7,Accepted,No,Level 2,Candidate,Street Parking,141,1710,7,NA
+SITE_0123,123,5,1,908,10749,1533,1.48,5,7,23000,1,11.4,Accepted,Yes,Level 2,Candidate,Street Parking,125,2380,1,NA
+SITE_0124,124,2,0,1145,15785,2287,2.51,4,9,95700,2,19.9,Declined,No,DC Fast,Candidate,Street Parking,104,1370,5,NA
+SITE_0125,125,3,0,661,9371,875,3.36,3,5,131200,2,9.3,Delayed,No,DC Fast,Candidate,Street Parking,60,2630,2,NA
+SITE_0126,126,4,1,866,12438,1555,1.72,4,6,92400,2,11.7,Accepted,Yes,DC Fast,Existing,Commercial Parking Lot,37,2070,9,9.6
+SITE_0127,127,3,0,1214,17723,1906,1.88,4,13,14600,1,17,Delayed,No,Level 2,Candidate,Street Parking,118,2420,3,NA
+SITE_0128,128,3,0,1123,13874,1223,1.01,4,10,16400,1,13.4,Delayed,No,Level 2,Candidate,Street Parking,129,2730,6,NA
+SITE_0129,129,4,0,1022,13026,1409,1.67,3,9,13400,1,13,Accepted,No,Level 2,Candidate,Retail Parking Lot,81,770,1,NA
+SITE_0130,130,3,0,1191,12911,1871,0.44,5,11,17300,1,16.6,Delayed,No,Level 2,Candidate,Parking Garage,32,370,9,NA
+SITE_0131,131,3,1,688,7826,1271,3.79,1,4,21000,1,9.3,Accepted,Yes,Level 2,Candidate,Parking Garage,152,1430,6,NA
+SITE_0132,132,5,1,804,14285,1638,2.05,5,6,8600,1,8.5,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,149,2210,6,NA
+SITE_0133,133,4,0,986,8728,1258,2.93,4,6,77400,2,11.3,Accepted,No,DC Fast,Candidate,Parking Garage,51,2020,10,NA
+SITE_0134,134,4,0,822,10773,938,3.49,2,6,10400,1,12,Delayed,No,Level 2,Candidate,Retail Parking Lot,146,2630,2,NA
+SITE_0135,135,2,1,435,1370,160,4.86,1,0,128500,2,6.3,Delayed,Yes,DC Fast,Candidate,Parking Garage,31,530,2,NA
+SITE_0136,136,4,0,545,8363,961,2.65,3,6,104700,2,11.2,Delayed,No,DC Fast,Candidate,Retail Parking Lot,140,1450,9,NA
+SITE_0137,137,4,0,1634,20264,1970,0.1,5,6,68200,2,17.5,Accepted,No,DC Fast,Candidate,Retail Parking Lot,80,2780,10,NA
+SITE_0138,138,3,0,1638,21142,2416,1.61,6,13,21200,1,16.9,Delayed,No,Level 2,Candidate,Retail Parking Lot,112,2600,10,NA
+SITE_0139,139,5,0,92,9096,770,4.31,0,3,15600,1,5.7,Accepted,No,Level 2,Candidate,Commercial Parking Lot,48,2000,1,NA
+SITE_0140,140,3,0,316,12534,857,3.51,1,2,9300,1,9.1,Accepted,No,Level 2,Candidate,Commercial Parking Lot,74,2610,3,NA
+SITE_0141,141,5,1,50,5566,50,2.78,1,0,19100,1,2.6,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,84,650,8,NA
+SITE_0142,142,4,0,686,10801,1346,2.45,4,6,90800,2,15.3,Accepted,No,DC Fast,Candidate,Street Parking,49,1960,5,NA
+SITE_0143,143,3,0,660,10170,1028,4.65,1,7,16600,1,11.5,Accepted,No,Level 2,Candidate,Parking Garage,101,1350,3,NA
+SITE_0144,144,5,1,667,7087,1171,3.26,2,5,12500,1,10.3,Accepted,Yes,Level 2,Candidate,Street Parking,33,2910,2,NA
+SITE_0145,145,1,1,743,7588,1026,3.92,1,8,15200,1,13.3,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,164,1210,2,NA
+SITE_0146,146,4,1,394,6643,426,4.29,3,3,16300,1,4.7,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,43,1120,9,NA
+SITE_0147,147,4,1,999,18711,874,1.58,2,9,10400,1,13.6,Accepted,Yes,Level 2,Candidate,Parking Garage,26,1130,6,NA
+SITE_0148,148,5,1,1206,15853,1406,0.1,5,5,83800,2,10.9,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,123,2980,8,NA
+SITE_0149,149,5,1,735,13024,417,1.29,5,10,81100,2,12.2,Accepted,Yes,DC Fast,Candidate,Street Parking,42,660,2,NA
+SITE_0150,150,4,0,1264,16868,1315,0.41,6,7,92100,2,14.7,Accepted,No,DC Fast,Candidate,Commercial Parking Lot,162,2170,1,NA
+SITE_0151,151,4,0,757,12834,764,4.33,0,10,131800,2,18.4,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,121,2630,9,NA
+SITE_0152,152,4,0,50,2722,50,4.54,0,0,13000,1,3.6,Accepted,No,Level 2,Candidate,Retail Parking Lot,125,2230,5,NA
+SITE_0153,153,1,0,637,14205,1662,1.03,6,7,101100,2,10.8,Declined,No,DC Fast,Candidate,Commercial Parking Lot,109,330,5,NA
+SITE_0154,154,3,0,870,14661,1733,1.63,3,8,147200,2,15.9,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,146,1590,10,NA
+SITE_0155,155,2,0,1119,16539,1022,5.58,0,7,8700,1,17.6,Declined,No,Level 2,Candidate,Retail Parking Lot,75,1160,3,NA
+SITE_0156,156,5,1,525,7982,1008,4.43,1,4,141400,2,13.8,Accepted,Yes,DC Fast,Candidate,Parking Garage,147,2490,10,NA
+SITE_0157,157,3,1,962,10355,1016,2.38,2,6,123100,2,18.9,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,80,2200,1,NA
+SITE_0158,158,5,0,429,11463,1363,1.48,3,5,116100,2,9.5,Accepted,No,DC Fast,Candidate,Street Parking,92,1930,3,NA
+SITE_0159,159,2,1,332,5241,450,2.51,3,0,18100,1,3.1,Accepted,Yes,Level 2,Existing,Street Parking,44,1460,5,2
+SITE_0160,160,4,0,1478,17921,2389,2.67,2,9,14000,1,18.7,Accepted,No,Level 2,Candidate,Parking Garage,64,1360,6,NA
+SITE_0161,161,4,0,131,1000,104,2.65,2,4,13000,1,3.2,Delayed,No,Level 2,Candidate,Parking Garage,117,570,2,NA
+SITE_0162,162,3,1,663,8554,915,1.57,3,2,24000,1,7,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,28,2890,8,NA
+SITE_0163,163,1,1,1019,20597,1493,2.37,4,12,21200,1,17.2,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,59,700,5,NA
+SITE_0164,164,4,1,288,6053,225,3.44,1,2,10000,1,6.7,Accepted,Yes,Level 2,Candidate,Street Parking,140,940,5,NA
+SITE_0165,165,4,1,1084,16719,1864,0.49,6,5,9800,1,8.9,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,134,2650,6,NA
+SITE_0166,166,3,1,810,12001,1555,0.93,4,5,22400,1,12.6,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,91,890,3,NA
+SITE_0167,167,4,1,870,7276,1052,3.64,2,3,133200,2,12.6,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,28,1580,2,NA
+SITE_0168,168,3,0,298,1000,450,3.52,1,4,14600,1,4.7,Accepted,No,Level 2,Candidate,Parking Garage,56,2980,5,NA
+SITE_0169,169,3,1,771,10156,1116,2.82,2,6,112300,2,10.8,Delayed,Yes,DC Fast,Candidate,Parking Garage,167,860,8,NA
+SITE_0170,170,4,1,996,12987,1155,0.72,5,7,22600,1,9.2,Accepted,Yes,Level 2,Candidate,Street Parking,79,1810,3,NA
+SITE_0171,171,2,0,458,7286,540,1.68,4,8,13700,1,7.5,Declined,No,Level 2,Candidate,Parking Garage,27,1170,1,NA
+SITE_0172,172,5,0,1402,15101,1947,0.61,4,8,15500,1,13.2,Accepted,No,Level 2,Candidate,Retail Parking Lot,163,860,5,NA
+SITE_0173,173,3,0,1130,10851,1258,1.49,5,7,20700,1,10.9,Delayed,No,Level 2,Candidate,Commercial Parking Lot,115,1360,10,NA
+SITE_0174,174,2,1,870,15995,1229,2.95,4,6,11400,1,11.9,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,152,3000,10,NA
+SITE_0175,175,4,1,648,8489,1051,1.59,3,6,87200,2,11.7,Accepted,Yes,DC Fast,Candidate,Street Parking,171,630,4,NA
+SITE_0176,176,5,0,992,14716,894,1.93,4,7,118800,2,15.5,Accepted,No,DC Fast,Candidate,Retail Parking Lot,128,2970,4,NA
+SITE_0177,177,2,0,1160,17270,2354,2.96,3,10,13100,1,17,Declined,No,Level 2,Candidate,Commercial Parking Lot,149,590,2,NA
+SITE_0178,178,1,0,1131,20367,1518,1.77,3,8,13500,1,14.9,Declined,No,Level 2,Candidate,Retail Parking Lot,143,2440,6,NA
+SITE_0179,179,1,0,1127,12350,1933,2.12,3,10,25000,1,11,Declined,No,Level 2,Candidate,Retail Parking Lot,86,1030,3,NA
+SITE_0180,180,3,0,978,16055,1718,1.13,7,10,11700,1,11.1,Delayed,No,Level 2,Candidate,Parking Garage,145,2130,8,NA
+SITE_0181,181,4,0,956,8274,1188,2.17,3,3,16400,1,11.4,Delayed,No,Level 2,Candidate,Parking Garage,121,1200,9,NA
+SITE_0182,182,4,0,895,7117,1086,2.97,3,8,106600,2,12.1,Accepted,No,DC Fast,Candidate,Street Parking,76,1790,8,NA
+SITE_0183,183,1,0,1562,19318,2374,1.44,5,9,22600,1,18.3,Declined,No,Level 2,Candidate,Retail Parking Lot,38,450,8,NA
+SITE_0184,184,5,0,539,6740,1229,3.95,0,8,104900,2,15,Accepted,No,DC Fast,Existing,Parking Garage,87,930,3,13.8
+SITE_0185,185,3,1,901,13358,1691,1.52,5,8,18400,1,11.9,Accepted,Yes,Level 2,Candidate,Parking Garage,66,2360,2,NA
+SITE_0186,186,4,0,1105,16776,1183,3.97,2,5,12800,1,13.4,Delayed,No,Level 2,Candidate,Commercial Parking Lot,170,1430,2,NA
+SITE_0187,187,2,0,1248,21326,2094,2.38,4,14,8000,1,19.6,Delayed,No,Level 2,Candidate,Commercial Parking Lot,28,300,1,NA
+SITE_0188,188,4,0,1571,21917,1872,1.3,4,9,113200,2,19.4,Accepted,No,DC Fast,Candidate,Parking Garage,103,1890,4,NA
+SITE_0189,189,4,0,537,12949,1162,2.94,2,7,8400,1,13.3,Delayed,No,Level 2,Candidate,Street Parking,176,2420,8,NA
+SITE_0190,190,3,0,1094,12653,1457,2.39,2,11,8800,1,14,Delayed,No,Level 2,Candidate,Street Parking,111,1300,4,NA
+SITE_0191,191,3,0,50,1000,50,3.73,1,0,14100,1,4.5,Delayed,No,Level 2,Candidate,Parking Garage,85,1490,6,NA
+SITE_0192,192,4,0,615,11017,1394,2.65,2,7,18500,1,12.9,Delayed,No,Level 2,Candidate,Retail Parking Lot,137,880,7,NA
+SITE_0193,193,4,0,884,16735,1614,2.93,3,8,20800,1,12,Accepted,No,Level 2,Candidate,Retail Parking Lot,96,460,5,NA
+SITE_0194,194,1,0,1700,20998,2219,1.97,3,9,14900,1,19.9,Declined,No,Level 2,Candidate,Parking Garage,57,1600,2,NA
+SITE_0195,195,3,0,1088,13367,1448,2.62,3,6,68400,2,13.1,Declined,No,DC Fast,Candidate,Retail Parking Lot,84,2550,10,NA
+SITE_0196,196,3,0,1062,12478,1691,1.11,5,3,11000,1,10.8,Delayed,No,Level 2,Candidate,Retail Parking Lot,145,2310,5,NA
+SITE_0197,197,4,0,1038,13701,1126,1.92,3,6,19500,1,11.6,Delayed,No,Level 2,Candidate,Parking Garage,99,2200,2,NA
+SITE_0198,198,5,1,449,5521,690,2.56,2,4,93700,2,8.5,Accepted,Yes,DC Fast,Candidate,Street Parking,74,2250,1,NA
+SITE_0199,199,5,0,386,15165,1250,2.76,4,3,8800,1,7,Accepted,No,Level 2,Candidate,Street Parking,86,320,2,NA
+SITE_0200,200,4,0,1057,14640,1441,2.22,4,7,11000,1,14,Delayed,No,Level 2,Candidate,Retail Parking Lot,47,1030,1,NA
+SITE_0201,201,2,1,777,14512,1198,2.29,2,2,19600,1,9.2,Delayed,Yes,Level 2,Candidate,Parking Garage,58,2830,8,NA
+SITE_0202,202,5,0,1256,18443,1222,3.61,1,7,112900,2,16.2,Accepted,No,DC Fast,Existing,Commercial Parking Lot,163,1950,9,14.1
+SITE_0203,203,3,0,570,13660,1066,1.82,3,5,20500,1,9.4,Delayed,No,Level 2,Candidate,Commercial Parking Lot,43,2970,7,NA
+SITE_0204,204,1,0,506,10377,767,0.4,5,3,23200,1,5.7,Declined,No,Level 2,Candidate,Commercial Parking Lot,105,2070,6,NA
+SITE_0205,205,3,0,1125,13583,1439,0.39,5,7,12000,1,13,Declined,No,Level 2,Candidate,Parking Garage,44,2300,8,NA
+SITE_0206,206,5,1,522,7270,552,4.93,1,3,22300,1,10.5,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,98,2120,7,NA
+SITE_0207,207,4,1,1018,11905,1586,4.18,1,8,114200,2,16.1,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,61,1810,1,NA
+SITE_0208,208,1,1,1038,14992,1539,2.92,1,5,17100,1,12.7,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,40,540,8,NA
+SITE_0209,209,2,0,50,1000,50,5.16,0,1,17300,1,5.6,Delayed,No,Level 2,Candidate,Retail Parking Lot,155,2640,2,NA
+SITE_0210,210,5,0,741,10392,1203,2.23,3,6,22700,1,9.8,Accepted,No,Level 2,Candidate,Parking Garage,99,2030,3,NA
+SITE_0211,211,5,0,820,15459,1669,3.13,4,7,10000,1,12,Accepted,No,Level 2,Candidate,Street Parking,155,1610,7,NA
+SITE_0212,212,4,0,50,3000,50,4.78,0,0,18800,1,5.4,Accepted,No,Level 2,Candidate,Commercial Parking Lot,71,2260,2,NA
+SITE_0213,213,4,0,1322,18663,2221,2.7,4,8,85900,2,19.6,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,62,610,9,NA
+SITE_0214,214,4,0,1514,18216,1279,2.73,3,11,134100,2,17.6,Delayed,No,DC Fast,Candidate,Retail Parking Lot,157,1760,4,NA
+SITE_0215,215,1,0,1247,16178,2142,1.63,4,10,16300,1,13,Declined,No,Level 2,Candidate,Parking Garage,171,2790,8,NA
+SITE_0216,216,5,0,844,8068,1041,2.35,3,5,12700,1,7.6,Accepted,No,Level 2,Candidate,Retail Parking Lot,102,1880,7,NA
+SITE_0217,217,4,0,748,16029,1344,4.04,2,2,11400,1,10.2,Delayed,No,Level 2,Candidate,Street Parking,59,1000,8,NA
+SITE_0218,218,4,1,333,2180,633,3.32,0,3,79500,2,7.9,Accepted,Yes,DC Fast,Candidate,Parking Garage,63,1740,1,NA
+SITE_0219,219,4,1,607,13230,807,3.09,1,4,9800,1,10.7,Accepted,Yes,Level 2,Candidate,Street Parking,137,1510,5,NA
+SITE_0220,220,3,0,426,8772,1074,1.2,4,5,79300,2,8.3,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,42,1060,1,NA
+SITE_0221,221,4,1,1332,17377,1849,0.35,6,11,20900,1,14.5,Accepted,Yes,Level 2,Existing,Street Parking,116,2170,2,15.2
+SITE_0222,222,5,0,576,16852,461,5.26,0,8,110300,2,17.2,Accepted,No,DC Fast,Candidate,Street Parking,158,2660,5,NA
+SITE_0223,223,4,0,352,8389,1339,2.89,4,6,18800,1,6,Accepted,No,Level 2,Existing,Retail Parking Lot,33,1380,10,2.6
+SITE_0224,224,5,0,1172,16119,1659,2.86,2,10,90300,2,17.5,Accepted,No,DC Fast,Existing,Street Parking,111,2460,8,17.8
+SITE_0225,225,3,1,1105,20546,1692,4.06,1,8,140100,2,19.3,Accepted,Yes,DC Fast,Candidate,Street Parking,112,2790,9,NA
+SITE_0226,226,2,0,445,11625,399,4.02,0,6,22600,1,7.6,Delayed,No,Level 2,Candidate,Street Parking,98,960,2,NA
+SITE_0227,227,5,0,1022,14938,1568,0.7,7,6,9400,1,9.6,Accepted,No,Level 2,Candidate,Street Parking,82,890,5,NA
+SITE_0228,228,4,1,456,7958,623,4.42,1,2,10400,1,9.4,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,107,1720,2,NA
+SITE_0229,229,4,0,715,8296,812,3.06,4,6,147800,2,14.3,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,24,2780,1,NA
+SITE_0230,230,4,0,303,7360,341,2.21,2,5,92100,2,10.3,Accepted,No,DC Fast,Candidate,Retail Parking Lot,137,500,7,NA
+SITE_0231,231,3,0,752,9217,1093,1.5,3,4,14900,1,7.9,Delayed,No,Level 2,Candidate,Parking Garage,86,690,7,NA
+SITE_0232,232,4,1,287,11124,683,2.58,3,3,16100,1,6.7,Accepted,Yes,Level 2,Candidate,Street Parking,109,320,8,NA
+SITE_0233,233,3,0,1051,15737,1656,3.7,1,12,22400,1,16.7,Delayed,No,Level 2,Candidate,Street Parking,155,410,6,NA
+SITE_0234,234,3,0,754,13032,2501,4.25,1,9,10900,1,19.1,Declined,No,Level 2,Candidate,Commercial Parking Lot,162,1350,10,NA
+SITE_0235,235,2,0,606,13791,1186,2,4,9,17300,1,10,Delayed,No,Level 2,Candidate,Commercial Parking Lot,130,2280,8,NA
+SITE_0236,236,5,0,1670,19653,1818,1.31,4,6,83900,2,17.9,Accepted,No,DC Fast,Existing,Retail Parking Lot,112,840,3,15.3
+SITE_0237,237,1,0,886,9650,1449,4.63,1,8,14200,1,14.3,Declined,No,Level 2,Candidate,Commercial Parking Lot,163,2010,2,NA
+SITE_0238,238,4,1,866,12829,1011,0.62,5,8,24800,1,11.6,Accepted,Yes,Level 2,Candidate,Street Parking,175,1310,3,NA
+SITE_0239,239,4,0,608,8795,1018,4.03,1,3,136700,2,11.3,Delayed,No,DC Fast,Candidate,Parking Garage,21,1470,4,NA
+SITE_0240,240,2,0,1519,19440,1622,0.1,8,9,13600,1,13.5,Declined,No,Level 2,Candidate,Parking Garage,54,1160,2,NA
+SITE_0241,241,1,1,943,10578,1206,0.1,6,3,141500,2,10,Delayed,Yes,DC Fast,Candidate,Street Parking,124,2420,9,NA
+SITE_0242,242,3,1,611,9823,1308,2.3,3,7,16600,1,8.7,Accepted,Yes,Level 2,Existing,Commercial Parking Lot,150,1970,5,6.1
+SITE_0243,243,1,0,1506,13391,1575,3.01,3,11,12400,1,16.9,Declined,No,Level 2,Candidate,Street Parking,154,2540,4,NA
+SITE_0244,244,2,0,531,11252,924,3.31,3,5,19200,1,8.1,Declined,No,Level 2,Candidate,Retail Parking Lot,128,1080,1,NA
+SITE_0245,245,5,0,555,6888,718,3.77,2,5,10300,1,7.2,Accepted,No,Level 2,Existing,Commercial Parking Lot,163,1670,7,4.6
+SITE_0246,246,3,0,1063,17728,2638,0.64,4,9,23700,1,13,Delayed,No,Level 2,Candidate,Commercial Parking Lot,72,2050,9,NA
+SITE_0247,247,2,1,1322,13880,2164,1.26,6,6,21600,1,13.4,Accepted,Yes,Level 2,Candidate,Parking Garage,162,780,3,NA
+SITE_0248,248,3,0,1173,15869,1851,2.85,3,8,20400,1,15.9,Delayed,No,Level 2,Candidate,Street Parking,171,1640,6,NA
+SITE_0249,249,4,1,1033,17123,1104,0.1,4,4,13500,1,10.4,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,129,990,9,NA
+SITE_0250,250,4,0,1140,10876,1980,4.42,0,9,126000,2,20.6,Delayed,No,DC Fast,Candidate,Retail Parking Lot,79,1850,8,NA
+SITE_0251,251,5,1,540,6516,1112,4.25,1,8,98600,2,13,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,103,2480,5,NA
+SITE_0252,252,3,0,809,8895,906,3.27,3,5,22500,1,8.4,Delayed,No,Level 2,Candidate,Parking Garage,70,2600,2,NA
+SITE_0253,253,4,0,789,5679,1002,1.95,4,7,111100,2,13.4,Accepted,No,DC Fast,Existing,Street Parking,98,760,9,7.7
+SITE_0254,254,5,1,1016,16399,1355,2,4,9,19200,1,14,Accepted,Yes,Level 2,Existing,Parking Garage,171,2820,7,10.3
+SITE_0255,255,3,1,480,5724,1149,3.82,2,7,113600,2,12.1,Accepted,Yes,DC Fast,Candidate,Parking Garage,147,2360,8,NA
+SITE_0256,256,4,0,1086,19155,1975,1.98,3,7,22900,1,14.7,Delayed,No,Level 2,Candidate,Street Parking,164,2470,6,NA
+SITE_0257,257,5,1,889,14516,1196,1.26,4,6,14800,1,8.9,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,113,2200,2,NA
+SITE_0258,258,1,0,732,9222,911,3.19,3,6,136300,2,13.6,Declined,No,DC Fast,Candidate,Commercial Parking Lot,33,570,8,NA
+SITE_0259,259,2,0,391,5438,627,3.52,2,1,10300,1,6.7,Declined,No,Level 2,Candidate,Retail Parking Lot,125,1630,8,NA
+SITE_0260,260,5,1,546,12885,1412,3.01,2,3,10600,1,10.6,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,168,680,3,NA
+SITE_0261,261,3,0,610,9900,1022,1.68,2,6,18600,1,7.7,Declined,No,Level 2,Candidate,Retail Parking Lot,162,1800,8,NA
+SITE_0262,262,5,1,73,5316,657,2,4,1,16200,1,4.5,Accepted,Yes,Level 2,Existing,Commercial Parking Lot,26,520,1,0
+SITE_0263,263,1,0,1022,11639,621,5.07,1,8,8100,1,13.5,Declined,No,Level 2,Candidate,Parking Garage,35,1730,1,NA
+SITE_0264,264,4,0,1421,16213,1914,1.84,4,7,10900,1,12.5,Delayed,No,Level 2,Candidate,Parking Garage,21,1360,3,NA
+SITE_0265,265,5,0,507,7255,1098,1.74,4,4,24100,1,7,Accepted,No,Level 2,Candidate,Retail Parking Lot,153,590,1,NA
+SITE_0266,266,4,0,809,10280,480,4.18,1,5,17200,1,9.9,Delayed,No,Level 2,Candidate,Street Parking,139,1130,3,NA
+SITE_0267,267,3,0,1548,20367,1429,0.41,6,10,98300,2,17.9,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,170,1770,7,NA
+SITE_0268,268,5,1,803,13123,845,1.39,5,4,23900,1,7.7,Accepted,Yes,Level 2,Candidate,Street Parking,93,1580,7,NA
+SITE_0269,269,5,0,169,9154,480,4.72,0,0,22800,1,7.6,Accepted,No,Level 2,Candidate,Commercial Parking Lot,171,2730,4,NA
+SITE_0270,270,5,0,216,7480,356,2.55,2,0,119800,2,9.2,Accepted,No,DC Fast,Candidate,Street Parking,29,2420,5,NA
+SITE_0271,271,3,0,1626,17278,2299,0.48,6,14,24900,1,17.7,Declined,No,Level 2,Candidate,Parking Garage,90,640,9,NA
+SITE_0272,272,3,1,1148,20719,1603,2.87,3,11,84200,2,20.8,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,21,1810,10,NA
+SITE_0273,273,4,0,787,5502,410,4.34,1,5,13300,1,7.1,Delayed,No,Level 2,Candidate,Street Parking,143,2750,3,NA
+SITE_0274,274,4,0,315,3549,50,5.54,0,2,9000,1,7.3,Accepted,No,Level 2,Candidate,Retail Parking Lot,100,980,9,NA
+SITE_0275,275,5,1,341,4308,50,3.46,3,1,93100,2,5.2,Accepted,Yes,DC Fast,Candidate,Parking Garage,111,2660,1,NA
+SITE_0276,276,5,1,361,5282,234,4.3,0,0,11000,1,6.4,Accepted,Yes,Level 2,Candidate,Street Parking,144,2130,5,NA
+SITE_0277,277,2,0,305,3003,459,2.32,2,2,16900,1,2.8,Declined,No,Level 2,Candidate,Street Parking,164,330,10,NA
+SITE_0278,278,5,0,955,10260,361,2.74,3,7,20500,1,12.8,Accepted,No,Level 2,Candidate,Commercial Parking Lot,129,670,1,NA
+SITE_0279,279,5,0,1101,17271,2260,2.7,4,8,23100,1,13.5,Accepted,No,Level 2,Candidate,Commercial Parking Lot,27,420,10,NA
+SITE_0280,280,4,0,282,9167,81,3.33,3,3,146000,2,9.7,Accepted,No,DC Fast,Candidate,Commercial Parking Lot,64,2380,1,NA
+SITE_0281,281,5,1,419,7418,862,2.36,2,4,8700,1,8,Accepted,Yes,Level 2,Candidate,Parking Garage,79,2010,10,NA
+SITE_0282,282,2,0,108,6285,50,3.56,2,3,13000,1,3.6,Declined,No,Level 2,Candidate,Commercial Parking Lot,85,2120,6,NA
+SITE_0283,283,5,0,286,2548,961,2.15,2,3,103900,2,9,Delayed,No,DC Fast,Candidate,Retail Parking Lot,161,2830,8,NA
+SITE_0284,284,5,0,676,13548,1120,1.82,4,6,22100,1,9.7,Accepted,No,Level 2,Existing,Retail Parking Lot,72,2240,7,6.8
+SITE_0285,285,2,1,575,8228,629,4.87,1,5,21600,1,9.4,Delayed,Yes,Level 2,Candidate,Parking Garage,160,2240,3,NA
+SITE_0286,286,3,1,1439,18546,1918,0.1,7,7,8900,1,10.8,Accepted,Yes,Level 2,Existing,Commercial Parking Lot,148,2620,7,8.7
+SITE_0287,287,4,0,769,9299,1809,1.67,5,6,108000,2,11.6,Delayed,No,DC Fast,Candidate,Retail Parking Lot,91,2430,6,NA
+SITE_0288,288,4,0,1344,16221,1403,1.83,5,7,21100,1,15,Delayed,No,Level 2,Candidate,Street Parking,145,2820,9,NA
+SITE_0289,289,2,0,443,9487,994,6.31,0,5,67200,2,13.4,Declined,No,DC Fast,Candidate,Commercial Parking Lot,35,1510,6,NA
+SITE_0290,290,2,1,1021,12599,1235,1.3,4,7,15100,1,10.9,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,145,2430,7,NA
+SITE_0291,291,4,0,463,4780,1389,3.94,0,3,22500,1,7.8,Delayed,No,Level 2,Candidate,Retail Parking Lot,164,500,3,NA
+SITE_0292,292,2,1,614,10301,536,3.73,0,6,72800,2,12.5,Delayed,Yes,DC Fast,Candidate,Parking Garage,143,560,4,NA
+SITE_0293,293,5,0,639,11491,1470,4.71,1,3,14300,1,10.6,Accepted,No,Level 2,Candidate,Commercial Parking Lot,112,2850,4,NA
+SITE_0294,294,2,0,605,10906,1150,3.96,1,3,121100,2,12.2,Declined,No,DC Fast,Candidate,Commercial Parking Lot,32,2670,4,NA
+SITE_0295,295,2,0,1022,12979,1218,2.68,2,8,117300,2,13.1,Declined,No,DC Fast,Candidate,Parking Garage,99,560,6,NA
+SITE_0296,296,5,1,793,12595,1843,0.15,7,4,13400,1,4,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,57,1350,7,NA
+SITE_0297,297,5,0,1137,16081,2078,2.79,3,4,83000,2,14.1,Accepted,No,DC Fast,Existing,Parking Garage,35,2310,7,15.3
+SITE_0298,298,3,0,514,8032,589,4.78,0,1,18500,1,7.4,Delayed,No,Level 2,Candidate,Parking Garage,96,2190,8,NA
+SITE_0299,299,4,0,980,19551,1506,2.47,3,7,9500,1,14.7,Delayed,No,Level 2,Candidate,Retail Parking Lot,158,1400,6,NA
+SITE_0300,300,3,0,562,10418,1061,2.3,2,4,9400,1,8.3,Delayed,No,Level 2,Candidate,Commercial Parking Lot,160,550,7,NA
+SITE_0301,301,3,0,178,6861,293,1.5,4,3,22600,1,3.1,Delayed,No,Level 2,Candidate,Parking Garage,131,2740,6,NA
+SITE_0302,302,3,0,374,7445,363,2.94,1,4,20800,1,11.2,Delayed,No,Level 2,Candidate,Retail Parking Lot,126,910,2,NA
+SITE_0303,303,5,0,1288,17488,2015,2,4,9,21200,1,14.1,Delayed,No,Level 2,Candidate,Retail Parking Lot,111,1610,5,NA
+SITE_0304,304,3,0,709,10544,1638,1.6,3,7,15700,1,11.4,Delayed,No,Level 2,Candidate,Street Parking,27,310,4,NA
+SITE_0305,305,2,0,409,10590,998,1.45,5,6,131200,2,8.8,Declined,No,DC Fast,Candidate,Retail Parking Lot,140,1910,8,NA
+SITE_0306,306,4,1,892,14040,1411,3.79,3,5,24200,1,12.6,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,58,720,8,NA
+SITE_0307,307,5,0,350,8578,62,2.1,2,3,15400,1,7.1,Accepted,No,Level 2,Candidate,Street Parking,163,1280,9,NA
+SITE_0308,308,4,0,944,10315,585,2.22,2,2,103600,2,13.1,Accepted,No,DC Fast,Candidate,Retail Parking Lot,152,570,2,NA
+SITE_0309,309,5,0,1067,16817,1319,2,4,9,10000,1,11.8,Accepted,No,Level 2,Candidate,Commercial Parking Lot,104,990,9,NA
+SITE_0310,310,2,1,880,6203,1198,3.47,4,7,19300,1,11.7,Accepted,Yes,Level 2,Candidate,Street Parking,175,460,3,NA
+SITE_0311,311,2,1,570,6493,1033,2.91,2,6,81100,2,9.7,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,176,1010,8,NA
+SITE_0312,312,5,0,443,7008,1584,3.62,1,4,21000,1,10.8,Accepted,No,Level 2,Candidate,Parking Garage,93,2530,10,NA
+SITE_0313,313,4,0,1353,17746,2042,2.01,4,12,8100,1,15,Declined,No,Level 2,Candidate,Retail Parking Lot,151,1510,8,NA
+SITE_0314,314,2,0,957,13918,1575,2.73,3,8,18300,1,10.6,Delayed,No,Level 2,Candidate,Retail Parking Lot,54,1760,9,NA
+SITE_0315,315,4,1,259,3675,76,2.51,2,6,20800,1,4.6,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,116,2510,3,NA
+SITE_0316,316,2,0,319,9847,695,3.66,2,8,66000,2,13,Declined,No,DC Fast,Candidate,Commercial Parking Lot,136,1250,6,NA
+SITE_0317,317,3,1,50,6076,314,3.25,1,0,75900,2,3.6,Delayed,Yes,DC Fast,Candidate,Commercial Parking Lot,95,650,7,NA
+SITE_0318,318,3,1,527,10315,1229,3.99,1,5,11100,1,10.5,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,77,1450,10,NA
+SITE_0319,319,5,0,806,11884,1632,2.93,2,7,15100,1,13.3,Accepted,No,Level 2,Candidate,Parking Garage,180,2710,10,NA
+SITE_0320,320,5,1,868,5969,983,1.99,5,6,12400,1,8,Accepted,Yes,Level 2,Candidate,Street Parking,161,680,10,NA
+SITE_0321,321,1,0,50,5959,868,2.81,2,8,71200,2,10.1,Declined,No,DC Fast,Candidate,Commercial Parking Lot,87,2910,10,NA
+SITE_0322,322,3,0,50,5520,720,3.06,2,0,22300,1,4.6,Declined,No,Level 2,Candidate,Retail Parking Lot,116,1560,3,NA
+SITE_0323,323,4,0,546,7892,1211,0.87,6,6,18300,1,6.4,Delayed,No,Level 2,Candidate,Parking Garage,28,1060,5,NA
+SITE_0324,324,1,0,50,1000,205,2.76,3,0,17800,1,1.2,Declined,No,Level 2,Candidate,Parking Garage,150,540,6,NA
+SITE_0325,325,4,0,898,13166,1743,2.03,5,11,20400,1,13.1,Accepted,No,Level 2,Candidate,Retail Parking Lot,44,310,2,NA
+SITE_0326,326,5,1,878,10406,675,3,3,1,24400,1,7.8,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,81,2590,2,NA
+SITE_0327,327,2,0,50,2733,50,4.56,0,0,73300,2,8.4,Declined,No,DC Fast,Candidate,Street Parking,113,490,3,NA
+SITE_0328,328,5,0,957,14620,2025,2.28,3,6,104700,2,15.1,Accepted,No,DC Fast,Candidate,Street Parking,80,1010,2,NA
+SITE_0329,329,3,0,955,15628,2030,2.78,3,5,13700,1,13.6,Delayed,No,Level 2,Candidate,Retail Parking Lot,154,810,3,NA
+SITE_0330,330,5,1,50,1000,50,4,0,0,13100,1,4.5,Accepted,Yes,Level 2,Candidate,Street Parking,52,530,9,NA
+SITE_0331,331,3,0,518,8437,1549,2.64,2,6,13700,1,9.7,Delayed,No,Level 2,Candidate,Retail Parking Lot,83,1850,9,NA
+SITE_0332,332,5,0,528,10052,148,3.87,0,4,15900,1,13.1,Delayed,No,Level 2,Candidate,Commercial Parking Lot,26,1940,4,NA
+SITE_0333,333,5,0,1391,21247,1335,0.52,6,10,18000,1,16.1,Accepted,No,Level 2,Existing,Retail Parking Lot,125,2190,2,15
+SITE_0334,334,2,0,1276,20091,2141,1.89,5,11,16500,1,16.1,Delayed,No,Level 2,Candidate,Commercial Parking Lot,171,1700,2,NA
+SITE_0335,335,4,0,1247,9289,1345,0.17,6,4,17000,1,9,Delayed,No,Level 2,Candidate,Retail Parking Lot,86,2950,8,NA
+SITE_0336,336,2,0,950,16837,1804,2.01,4,10,81200,2,15.6,Declined,No,DC Fast,Candidate,Retail Parking Lot,106,910,2,NA
+SITE_0337,337,4,0,1466,15321,1723,2.45,5,10,16200,1,15.1,Delayed,No,Level 2,Candidate,Commercial Parking Lot,74,510,2,NA
+SITE_0338,338,3,1,641,10513,1903,3.44,2,6,22700,1,9.4,Accepted,Yes,Level 2,Candidate,Street Parking,45,1950,5,NA
+SITE_0339,339,3,0,894,17209,1140,0.1,7,7,62900,2,9.8,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,135,2920,4,NA
+SITE_0340,340,5,1,690,10356,812,2.37,4,7,16500,1,10.6,Accepted,Yes,Level 2,Candidate,Parking Garage,99,1010,4,NA
+SITE_0341,341,3,0,841,8940,1164,3.16,3,4,78200,2,11.5,Declined,No,DC Fast,Candidate,Retail Parking Lot,151,2790,8,NA
+SITE_0342,342,3,0,1156,8877,1483,1.25,5,8,17000,1,14,Delayed,No,Level 2,Candidate,Parking Garage,29,1350,6,NA
+SITE_0343,343,4,0,708,9322,206,0.72,6,5,15900,1,8.9,Delayed,No,Level 2,Candidate,Retail Parking Lot,41,2780,3,NA
+SITE_0344,344,4,0,1279,19603,1827,0.89,5,13,131800,2,15.4,Accepted,No,DC Fast,Candidate,Retail Parking Lot,150,1100,1,NA
+SITE_0345,345,2,0,654,6720,982,0.97,5,4,20700,1,4.4,Declined,No,Level 2,Candidate,Street Parking,132,480,7,NA
+SITE_0346,346,4,1,615,8260,757,3.59,4,5,10800,1,9.5,Accepted,Yes,Level 2,Candidate,Street Parking,159,1060,10,NA
+SITE_0347,347,3,0,953,12125,1575,2.33,4,6,13900,1,9.8,Delayed,No,Level 2,Candidate,Street Parking,104,1980,1,NA
+SITE_0348,348,3,0,1394,13377,1730,0.48,5,4,13700,1,13.1,Delayed,No,Level 2,Candidate,Parking Garage,50,1560,10,NA
+SITE_0349,349,3,0,50,8787,463,2.64,3,2,9500,1,3.8,Delayed,No,Level 2,Candidate,Street Parking,83,2260,5,NA
+SITE_0350,350,4,0,559,1000,314,4.01,1,5,61900,2,8,Delayed,No,DC Fast,Candidate,Parking Garage,38,900,2,NA
+SITE_0351,351,5,1,872,16601,1456,1.43,5,6,9800,1,8.5,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,136,810,9,NA
+SITE_0352,352,1,0,1039,9335,2175,4.1,4,6,24600,1,13.7,Declined,No,Level 2,Candidate,Parking Garage,114,2630,7,NA
+SITE_0353,353,4,0,925,5694,827,3.44,2,4,14600,1,9.3,Delayed,No,Level 2,Candidate,Commercial Parking Lot,84,1500,1,NA
+SITE_0354,354,4,1,1517,19420,2210,2.04,5,9,8300,1,16.8,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,36,780,10,NA
+SITE_0355,355,5,1,605,4902,484,3.15,0,2,14200,1,10,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,78,2210,5,NA
+SITE_0356,356,2,0,404,3093,911,3.74,2,0,20800,1,3.2,Declined,No,Level 2,Candidate,Street Parking,111,2580,6,NA
+SITE_0357,357,1,0,319,7055,1144,3.96,2,7,116700,2,8.8,Declined,No,DC Fast,Candidate,Parking Garage,76,1060,6,NA
+SITE_0358,358,4,0,761,10239,1186,3.42,1,6,19300,1,13.5,Delayed,No,Level 2,Candidate,Street Parking,131,2560,10,NA
+SITE_0359,359,3,1,594,9666,525,6.58,0,0,15800,1,9.7,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,149,1750,4,NA
+SITE_0360,360,5,0,1063,16234,2016,4,2,10,11700,1,15.1,Delayed,No,Level 2,Candidate,Retail Parking Lot,149,2060,9,NA
+SITE_0361,361,4,1,760,14072,1077,4.2,0,7,15000,1,13,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,125,3000,2,NA
+SITE_0362,362,4,0,309,8612,1006,3.9,1,3,14800,1,8.6,Delayed,No,Level 2,Candidate,Parking Garage,69,2320,1,NA
+SITE_0363,363,1,0,532,8614,233,2.87,2,6,15600,1,8.1,Declined,No,Level 2,Candidate,Street Parking,117,560,3,NA
+SITE_0364,364,4,1,481,10653,1129,3.88,0,3,21700,1,11.1,Accepted,Yes,Level 2,Candidate,Parking Garage,178,2850,1,NA
+SITE_0365,365,5,0,925,12113,1951,3.31,3,8,16100,1,11.4,Accepted,No,Level 2,Candidate,Retail Parking Lot,98,2150,8,NA
+SITE_0366,366,4,0,545,9043,811,2.66,2,2,24600,1,6,Accepted,No,Level 2,Existing,Commercial Parking Lot,29,1890,2,3.8
+SITE_0367,367,2,0,1070,14069,1360,1.8,3,5,18300,1,12.2,Declined,No,Level 2,Candidate,Street Parking,171,2450,10,NA
+SITE_0368,368,1,0,272,4485,1374,3.81,2,3,19400,1,8.1,Declined,No,Level 2,Candidate,Retail Parking Lot,33,550,2,NA
+SITE_0369,369,5,0,584,17605,1719,2.32,5,4,75600,2,15,Delayed,No,DC Fast,Candidate,Retail Parking Lot,76,800,9,NA
+SITE_0370,370,1,1,1063,14531,863,1.16,5,4,130900,2,11.4,Delayed,Yes,DC Fast,Candidate,Retail Parking Lot,27,2650,2,NA
+SITE_0371,371,5,1,991,18263,2069,1.62,3,6,11200,1,12.5,Accepted,Yes,Level 2,Candidate,Parking Garage,109,2400,1,NA
+SITE_0372,372,5,1,823,12489,1242,1.72,5,4,118500,2,11.8,Accepted,Yes,DC Fast,Candidate,Parking Garage,149,680,4,NA
+SITE_0373,373,1,0,1217,16081,1592,0.1,7,6,12200,1,10.9,Declined,No,Level 2,Candidate,Commercial Parking Lot,92,2330,8,NA
+SITE_0374,374,3,0,232,7742,592,3.6,1,1,127400,2,9.7,Delayed,No,DC Fast,Candidate,Parking Garage,138,2190,4,NA
+SITE_0375,375,5,0,1250,12414,1104,5.89,2,7,102100,2,16.5,Accepted,No,DC Fast,Candidate,Commercial Parking Lot,125,350,9,NA
+SITE_0376,376,4,0,772,13522,1153,3.21,3,6,130500,2,13.7,Delayed,No,DC Fast,Candidate,Parking Garage,123,2850,5,NA
+SITE_0377,377,5,0,1477,15751,1842,2.86,4,10,18700,1,16.6,Accepted,No,Level 2,Candidate,Commercial Parking Lot,174,2830,6,NA
+SITE_0378,378,4,1,547,1000,683,2.1,2,2,18600,1,3.9,Accepted,Yes,Level 2,Candidate,Parking Garage,32,1360,1,NA
+SITE_0379,379,4,1,1061,12315,1686,1.75,3,10,66800,2,17.1,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,128,390,7,NA
+SITE_0380,380,4,0,760,13483,1443,4.02,2,5,148100,2,13.7,Declined,No,DC Fast,Candidate,Street Parking,142,2800,6,NA
+SITE_0381,381,5,0,670,14817,1760,4.92,1,6,18400,1,15.1,Accepted,No,Level 2,Candidate,Street Parking,60,1810,2,NA
+SITE_0382,382,1,0,1014,11246,1603,3.66,2,3,137300,2,16.9,Declined,No,DC Fast,Candidate,Retail Parking Lot,67,1780,4,NA
+SITE_0383,383,3,0,1013,13776,2065,2.63,3,10,17900,1,12.1,Delayed,No,Level 2,Candidate,Street Parking,30,1630,8,NA
+SITE_0384,384,3,1,284,5401,1518,2.58,2,4,12200,1,7.5,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,136,940,4,NA
+SITE_0385,385,1,0,925,13248,1668,0.73,6,7,14900,1,8,Declined,No,Level 2,Candidate,Parking Garage,74,2260,1,NA
+SITE_0386,386,5,0,1028,14007,1275,0.83,5,9,15600,1,14.9,Accepted,No,Level 2,Candidate,Retail Parking Lot,51,2340,6,NA
+SITE_0387,387,5,0,881,8855,909,3.01,1,5,13700,1,10.7,Delayed,No,Level 2,Candidate,Commercial Parking Lot,52,2000,9,NA
+SITE_0388,388,4,0,668,10693,1337,1.68,2,1,141200,2,11.4,Declined,No,DC Fast,Candidate,Street Parking,179,1210,1,NA
+SITE_0389,389,4,1,1312,19882,2394,0.1,7,6,9800,1,14.9,Accepted,Yes,Level 2,Candidate,Street Parking,142,1250,9,NA
+SITE_0390,390,3,0,378,6435,918,1.39,3,3,8400,1,6.7,Declined,No,Level 2,Candidate,Commercial Parking Lot,44,480,6,NA
+SITE_0391,391,1,0,1035,8997,1292,3.02,2,2,20200,1,12.4,Declined,No,Level 2,Candidate,Parking Garage,61,950,7,NA
+SITE_0392,392,2,1,821,14942,1991,4.36,2,9,14400,1,14.3,Delayed,Yes,Level 2,Candidate,Parking Garage,119,880,5,NA
+SITE_0393,393,3,1,677,15346,1329,2.08,3,6,79400,2,13.3,Accepted,Yes,DC Fast,Candidate,Parking Garage,172,2470,2,NA
+SITE_0394,394,4,0,1182,19300,2591,1.09,3,9,23600,1,14.3,Delayed,No,Level 2,Candidate,Retail Parking Lot,109,1120,6,NA
+SITE_0395,395,4,1,525,13042,1565,0.34,6,5,22300,1,8.5,Accepted,Yes,Level 2,Candidate,Parking Garage,79,1530,3,NA
+SITE_0396,396,5,1,824,16065,2052,1.61,3,11,22400,1,15,Accepted,Yes,Level 2,Candidate,Parking Garage,22,1210,3,NA
+SITE_0397,397,4,1,822,15080,1534,2.57,4,9,9800,1,13.2,Accepted,Yes,Level 2,Candidate,Parking Garage,78,880,5,NA
+SITE_0398,398,2,1,476,1000,596,5.05,1,2,21100,1,7.7,Accepted,Yes,Level 2,Candidate,Street Parking,84,380,6,NA
+SITE_0399,399,3,0,951,7039,983,2.49,2,8,13000,1,12,Declined,No,Level 2,Candidate,Retail Parking Lot,165,2910,4,NA
+SITE_0400,400,4,0,821,11151,977,1.16,6,6,9600,1,7.4,Delayed,No,Level 2,Candidate,Parking Garage,134,1360,1,NA
+SITE_0401,401,3,1,1445,20358,1566,4.15,3,9,24300,1,19.8,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,25,1170,7,NA
+SITE_0402,402,3,1,51,6412,953,5.32,0,0,14600,1,6.3,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,25,2950,10,NA
+SITE_0403,403,5,0,467,7313,363,2.94,2,4,110500,2,9.8,Accepted,No,DC Fast,Candidate,Commercial Parking Lot,54,1010,4,NA
+SITE_0404,404,4,0,1420,14558,1026,2.65,4,8,21100,1,15.3,Delayed,No,Level 2,Candidate,Parking Garage,113,2140,7,NA
+SITE_0405,405,3,0,790,18797,1592,3.46,2,7,19100,1,11,Declined,No,Level 2,Candidate,Retail Parking Lot,82,1710,10,NA
+SITE_0406,406,4,0,565,10500,674,3.77,1,3,81700,2,9.7,Accepted,No,DC Fast,Candidate,Commercial Parking Lot,179,2070,4,NA
+SITE_0407,407,4,0,292,9020,617,4.29,0,6,149200,2,11.7,Delayed,No,DC Fast,Candidate,Retail Parking Lot,53,540,5,NA
+SITE_0408,408,3,0,100,8897,658,4.46,1,5,142300,2,10.2,Declined,No,DC Fast,Candidate,Street Parking,68,2320,9,NA
+SITE_0409,409,3,1,1325,20184,1995,0.8,5,9,19200,1,13.7,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,126,1410,3,NA
+SITE_0410,410,5,0,175,4650,50,4.29,1,1,23600,1,8,Delayed,No,Level 2,Candidate,Parking Garage,58,2990,7,NA
+SITE_0411,411,1,0,655,12762,1053,2.64,3,7,16000,1,11.8,Declined,No,Level 2,Candidate,Commercial Parking Lot,65,1970,4,NA
+SITE_0412,412,3,1,1009,12002,1692,1.72,5,6,12700,1,7.8,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,51,1930,7,NA
+SITE_0413,413,3,0,760,14541,1456,3.18,3,6,94600,2,13.7,Declined,No,DC Fast,Candidate,Street Parking,158,1160,8,NA
+SITE_0414,414,5,1,828,11422,930,2.26,2,6,24500,1,10.3,Accepted,Yes,Level 2,Candidate,Parking Garage,159,2260,4,NA
+SITE_0415,415,4,1,1478,22142,2700,1.73,4,13,22500,1,17.7,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,64,1590,1,NA
+SITE_0416,416,4,0,639,11848,1409,3.65,0,7,99200,2,13.4,Declined,No,DC Fast,Candidate,Retail Parking Lot,140,1100,4,NA
+SITE_0417,417,3,0,532,12470,1178,1.06,5,5,105100,2,10.6,Declined,No,DC Fast,Candidate,Retail Parking Lot,117,1350,6,NA
+SITE_0418,418,4,1,910,10801,691,3.63,3,8,89900,2,13.9,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,178,1750,4,NA
+SITE_0419,419,1,0,838,13827,1705,1.08,6,6,17400,1,9.8,Declined,No,Level 2,Candidate,Street Parking,30,1270,2,NA
+SITE_0420,420,3,0,572,13206,728,4.3,0,5,79300,2,14.3,Declined,No,DC Fast,Candidate,Parking Garage,139,800,1,NA
+SITE_0421,421,4,0,839,12075,977,1.67,5,8,104900,2,13,Accepted,No,DC Fast,Candidate,Parking Garage,28,2430,9,NA
+SITE_0422,422,4,0,800,13350,629,2.22,3,1,79100,2,8.8,Declined,No,DC Fast,Candidate,Street Parking,48,1900,6,NA
+SITE_0423,423,2,0,1612,16956,2499,0.1,7,12,17900,1,14.7,Declined,No,Level 2,Candidate,Retail Parking Lot,20,2860,3,NA
+SITE_0424,424,3,0,1468,17651,2306,0.1,6,6,18800,1,13.5,Delayed,No,Level 2,Candidate,Commercial Parking Lot,157,620,9,NA
+SITE_0425,425,4,0,496,8504,654,4.42,0,3,98100,2,9.8,Declined,No,DC Fast,Candidate,Street Parking,179,1530,1,NA
+SITE_0426,426,4,0,617,6273,1401,3.67,1,2,130300,2,12.9,Declined,No,DC Fast,Candidate,Parking Garage,78,710,7,NA
+SITE_0427,427,3,1,352,8919,50,4.27,0,2,13800,1,6.5,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,115,2890,10,NA
+SITE_0428,428,3,1,558,5574,385,4.5,1,3,11400,1,6.9,Accepted,Yes,Level 2,Existing,Parking Garage,130,930,8,2.3
+SITE_0429,429,3,0,50,1000,216,5.58,0,2,21700,1,4.6,Delayed,No,Level 2,Candidate,Commercial Parking Lot,121,1260,3,NA
+SITE_0430,430,2,1,1077,13127,1592,3.61,3,9,17800,1,14.7,Accepted,Yes,Level 2,Candidate,Parking Garage,111,440,8,NA
+SITE_0431,431,2,0,542,10161,270,5.19,1,7,109400,2,13.8,Declined,No,DC Fast,Candidate,Commercial Parking Lot,128,1820,7,NA
+SITE_0432,432,3,1,749,6897,1242,3.12,2,6,14500,1,7.4,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,107,540,1,NA
+SITE_0433,433,5,0,1374,18570,1922,1.31,6,12,21200,1,19.5,Delayed,No,Level 2,Candidate,Commercial Parking Lot,99,870,8,NA
+SITE_0434,434,3,0,1222,16316,1293,0.1,7,8,21300,1,13.9,Declined,No,Level 2,Candidate,Retail Parking Lot,99,1100,5,NA
+SITE_0435,435,2,1,397,2776,50,1.58,3,2,17200,1,1.7,Delayed,Yes,Level 2,Candidate,Street Parking,61,2260,2,NA
+SITE_0436,436,3,0,50,8897,680,5.61,0,4,13600,1,10.9,Delayed,No,Level 2,Candidate,Retail Parking Lot,127,1410,4,NA
+SITE_0437,437,2,0,121,4359,186,3.6,4,0,95400,2,4.1,Declined,No,DC Fast,Candidate,Retail Parking Lot,172,2280,5,NA
+SITE_0438,438,3,0,296,7399,955,4.55,0,3,73500,2,10.2,Declined,No,DC Fast,Candidate,Commercial Parking Lot,37,2990,4,NA
+SITE_0439,439,1,1,1357,21973,1228,2.94,3,10,15500,1,17.4,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,144,2620,1,NA
+SITE_0440,440,4,1,1029,13061,2115,1.15,5,7,12900,1,11,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,95,2400,8,NA
+SITE_0441,441,3,1,389,4757,376,2.74,3,3,20900,1,5.6,Accepted,Yes,Level 2,Candidate,Parking Garage,175,1140,8,NA
+SITE_0442,442,4,1,1142,12912,1868,1.69,4,12,13300,1,13.6,Accepted,Yes,Level 2,Existing,Parking Garage,132,1680,1,14.4
+SITE_0443,443,4,0,861,18675,1641,2.51,4,6,12600,1,13.7,Delayed,No,Level 2,Candidate,Street Parking,35,1760,4,NA
+SITE_0444,444,4,0,134,5300,931,2.68,3,2,22700,1,5.8,Delayed,No,Level 2,Candidate,Street Parking,42,1710,10,NA
+SITE_0445,445,4,1,722,13285,1242,0.1,4,9,124200,2,11.8,Accepted,Yes,DC Fast,Candidate,Street Parking,121,1700,10,NA
+SITE_0446,446,5,1,786,13141,1083,2.35,4,8,66100,2,14.5,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,176,910,10,NA
+SITE_0447,447,4,1,1050,13832,1166,0.51,5,8,12100,1,13.4,Accepted,Yes,Level 2,Candidate,Street Parking,122,2790,7,NA
+SITE_0448,448,5,0,1306,21227,1136,2,5,9,62600,2,16.9,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,85,370,5,NA
+SITE_0449,449,3,1,966,15555,1615,1.22,5,8,13600,1,9,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,156,1910,6,NA
+SITE_0450,450,4,0,502,10960,751,2.02,4,6,8500,1,5.6,Delayed,No,Level 2,Candidate,Retail Parking Lot,162,520,6,NA
+SITE_0451,451,2,0,1967,19410,2479,3.7,3,14,8200,1,22,Declined,No,Level 2,Candidate,Retail Parking Lot,48,2090,7,NA
+SITE_0452,452,3,0,850,11323,948,1.62,4,2,16600,1,7.1,Declined,No,Level 2,Candidate,Commercial Parking Lot,148,1410,7,NA
+SITE_0453,453,4,0,161,9769,378,2.85,2,2,84800,2,7.3,Declined,No,DC Fast,Candidate,Parking Garage,121,1010,1,NA
+SITE_0454,454,5,1,597,3153,1127,3.94,1,3,10100,1,8.3,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,55,2820,6,NA
+SITE_0455,455,4,0,672,13847,417,3.4,3,2,78200,2,9.3,Delayed,No,DC Fast,Candidate,Parking Garage,58,1370,2,NA
+SITE_0456,456,3,0,1532,17760,1723,2.96,4,9,11700,1,17.6,Declined,No,Level 2,Candidate,Retail Parking Lot,152,2130,3,NA
+SITE_0457,457,5,0,195,2657,329,3.07,1,5,21300,1,5.2,Delayed,No,Level 2,Candidate,Retail Parking Lot,150,1660,7,NA
+SITE_0458,458,5,0,343,6906,667,2.74,2,4,8700,1,7.8,Delayed,No,Level 2,Candidate,Retail Parking Lot,56,2570,2,NA
+SITE_0459,459,2,0,499,17971,677,0.84,3,7,117900,2,11.2,Declined,No,DC Fast,Candidate,Commercial Parking Lot,111,2330,9,NA
+SITE_0460,460,2,1,757,15832,1016,4.97,1,6,14900,1,13.2,Delayed,Yes,Level 2,Candidate,Street Parking,163,670,2,NA
+SITE_0461,461,3,0,1197,20788,1678,0.13,6,10,12100,1,10.1,Declined,No,Level 2,Candidate,Retail Parking Lot,84,1660,2,NA
+SITE_0462,462,2,0,918,6995,1121,2.22,4,4,16200,1,9.2,Declined,No,Level 2,Candidate,Retail Parking Lot,65,1430,5,NA
+SITE_0463,463,5,1,620,7494,948,2.47,3,3,24900,1,6,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,27,400,4,NA
+SITE_0464,464,4,0,1315,21121,1913,1.28,6,9,20000,1,16,Accepted,No,Level 2,Candidate,Retail Parking Lot,173,2190,4,NA
+SITE_0465,465,5,1,1035,16609,767,0.16,5,6,19600,1,11.3,Accepted,Yes,Level 2,Candidate,Street Parking,111,390,7,NA
+SITE_0466,466,3,0,655,11356,1777,2.75,3,7,10700,1,11.4,Declined,No,Level 2,Candidate,Street Parking,34,2610,10,NA
+SITE_0467,467,5,1,1074,18069,1406,1.73,4,11,126300,2,15.5,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,166,530,10,NA
+SITE_0468,468,4,0,148,7151,817,2.48,3,4,75600,2,6.5,Delayed,No,DC Fast,Candidate,Retail Parking Lot,142,1070,8,NA
+SITE_0469,469,4,1,1098,12858,1304,3.26,1,5,97300,2,16.3,Accepted,Yes,DC Fast,Candidate,Street Parking,48,570,4,NA
+SITE_0470,470,3,1,1302,16652,1272,1.79,5,7,22000,1,12.2,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,95,570,8,NA
+SITE_0471,471,2,0,575,12606,315,4.61,0,5,84300,2,12.8,Declined,No,DC Fast,Candidate,Parking Garage,81,460,2,NA
+SITE_0472,472,3,0,948,10598,1111,4.98,0,5,24000,1,14.6,Delayed,No,Level 2,Candidate,Commercial Parking Lot,92,2320,5,NA
+SITE_0473,473,4,0,863,10552,1210,0.97,5,9,11500,1,10.6,Delayed,No,Level 2,Candidate,Parking Garage,171,710,10,NA
+SITE_0474,474,3,0,216,2853,235,5.53,0,2,102200,2,8.5,Delayed,No,DC Fast,Candidate,Parking Garage,64,2380,9,NA
+SITE_0475,475,5,1,1345,18174,2289,0.13,6,9,21200,1,13.3,Accepted,Yes,Level 2,Existing,Street Parking,169,450,3,13.2
+SITE_0476,476,2,0,741,9859,1129,3.79,1,4,23100,1,8.5,Declined,No,Level 2,Candidate,Commercial Parking Lot,113,1210,6,NA
+SITE_0477,477,5,0,365,13954,441,4.35,1,4,69100,2,13,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,99,2140,1,NA
+SITE_0478,478,4,0,500,13089,525,2.49,1,6,144600,2,11.1,Delayed,No,DC Fast,Candidate,Retail Parking Lot,96,1840,10,NA
+SITE_0479,479,1,0,1283,16225,1861,1.29,5,9,18700,1,14.1,Declined,No,Level 2,Candidate,Street Parking,129,1710,6,NA
+SITE_0480,480,2,0,590,5953,1668,2.51,4,5,23500,1,7,Declined,No,Level 2,Candidate,Retail Parking Lot,52,2900,10,NA
+SITE_0481,481,5,1,952,10258,1335,0.1,8,2,10600,1,5.3,Accepted,Yes,Level 2,Existing,Street Parking,130,1250,10,0.1
+SITE_0482,482,3,0,861,8398,931,1.17,3,3,126000,2,10.5,Declined,No,DC Fast,Candidate,Street Parking,45,990,9,NA
+SITE_0483,483,3,1,516,3695,756,2.99,4,3,83600,2,7.6,Delayed,Yes,DC Fast,Candidate,Street Parking,136,1470,6,NA
+SITE_0484,484,3,0,1066,10424,1458,0.51,7,8,24600,1,9.3,Delayed,No,Level 2,Candidate,Street Parking,28,2330,2,NA
+SITE_0485,485,2,0,899,12047,916,1.2,5,5,17000,1,10.8,Declined,No,Level 2,Candidate,Parking Garage,72,450,5,NA
+SITE_0486,486,2,1,865,10126,1179,1.26,4,6,18800,1,11.1,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,121,1080,4,NA
+SITE_0487,487,2,0,960,9174,1121,2.42,3,4,21200,1,8.9,Declined,No,Level 2,Candidate,Commercial Parking Lot,172,2730,6,NA
+SITE_0488,488,5,1,1197,14964,1457,2.38,4,7,86800,2,16.4,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,66,1120,2,NA
+SITE_0489,489,3,1,1040,15429,811,0.7,6,9,9600,1,11.2,Delayed,Yes,Level 2,Candidate,Street Parking,130,2310,10,NA
+SITE_0490,490,5,0,1247,15363,1944,0.47,5,3,13300,1,11.5,Delayed,No,Level 2,Candidate,Retail Parking Lot,159,1470,10,NA
+SITE_0491,491,3,0,549,15829,1424,2.28,1,6,119200,2,15.6,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,179,1150,9,NA
+SITE_0492,492,5,0,1310,15253,2097,2.57,3,12,23600,1,14.9,Accepted,No,Level 2,Candidate,Commercial Parking Lot,81,640,6,NA
+SITE_0493,493,5,0,1007,20083,1464,2.89,4,7,70900,2,19.2,Accepted,No,DC Fast,Candidate,Parking Garage,77,2670,4,NA
+SITE_0494,494,5,0,523,5562,1357,5.09,0,8,21300,1,13.4,Delayed,No,Level 2,Candidate,Commercial Parking Lot,161,650,1,NA
+SITE_0495,495,4,0,908,14104,1559,3.85,3,9,17500,1,12.9,Delayed,No,Level 2,Candidate,Retail Parking Lot,94,310,1,NA
+SITE_0496,496,3,1,1262,9978,1657,1.64,5,5,21800,1,11.1,Delayed,Yes,Level 2,Candidate,Parking Garage,49,480,8,NA
+SITE_0497,497,2,0,1496,18600,2461,0.88,5,12,17800,1,17.8,Declined,No,Level 2,Candidate,Street Parking,168,2610,10,NA
+SITE_0498,498,2,0,282,4667,764,1.33,4,3,17300,1,3.1,Declined,No,Level 2,Candidate,Parking Garage,24,2190,7,NA
+SITE_0499,499,4,0,673,16316,480,0.46,4,8,130900,2,11.2,Delayed,No,DC Fast,Candidate,Parking Garage,93,1540,9,NA
+SITE_0500,500,1,1,883,6191,581,2.01,4,5,22800,1,5.2,Delayed,Yes,Level 2,Candidate,Street Parking,32,1630,3,NA
+SITE_0501,501,3,1,50,5703,50,4.88,0,0,21300,1,4.7,Accepted,Yes,Level 2,Candidate,Parking Garage,39,1380,9,NA
+SITE_0502,502,5,0,706,10936,553,2.33,3,4,71400,2,12.7,Delayed,No,DC Fast,Candidate,Street Parking,159,2690,7,NA
+SITE_0503,503,2,0,588,12085,535,3.38,2,5,127900,2,11.8,Delayed,No,DC Fast,Candidate,Street Parking,177,520,2,NA
+SITE_0504,504,4,0,947,14412,1196,0.93,4,6,86600,2,9.8,Delayed,No,DC Fast,Candidate,Retail Parking Lot,54,660,1,NA
+SITE_0505,505,3,0,817,8358,1317,3.18,3,7,22000,1,12.7,Delayed,No,Level 2,Candidate,Commercial Parking Lot,76,2800,9,NA
+SITE_0506,506,4,0,681,14486,1771,2.75,4,9,12100,1,11.2,Declined,No,Level 2,Candidate,Street Parking,65,2820,6,NA
+SITE_0507,507,3,0,599,14952,1245,3.78,2,6,19800,1,11.1,Declined,No,Level 2,Candidate,Retail Parking Lot,169,1890,7,NA
+SITE_0508,508,5,0,1098,12936,2085,1.07,5,5,124500,2,17.1,Delayed,No,DC Fast,Candidate,Street Parking,94,460,6,NA
+SITE_0509,509,1,0,682,11749,1095,2.95,2,6,20200,1,11.1,Declined,No,Level 2,Candidate,Commercial Parking Lot,116,2720,1,NA
+SITE_0510,510,5,0,50,1000,50,2.59,2,1,149600,2,2.9,Delayed,No,DC Fast,Candidate,Parking Garage,70,2790,9,NA
+SITE_0511,511,4,0,964,16076,1867,1.44,5,10,148700,2,14.3,Delayed,No,DC Fast,Candidate,Parking Garage,93,880,8,NA
+SITE_0512,512,3,1,486,11672,465,2.43,3,5,1.00E+05,2,10,Delayed,Yes,DC Fast,Candidate,Commercial Parking Lot,104,1150,3,NA
+SITE_0513,513,3,1,1266,16378,2047,1.94,4,9,16200,1,16.2,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,102,2690,7,NA
+SITE_0514,514,3,0,982,15598,1461,2.57,4,8,10600,1,12.3,Delayed,No,Level 2,Candidate,Commercial Parking Lot,60,1240,8,NA
+SITE_0515,515,1,1,771,13684,1511,3.38,1,5,15500,1,14,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,50,2800,3,NA
+SITE_0516,516,3,0,1192,13396,1712,2.19,5,11,87700,2,17.1,Declined,No,DC Fast,Candidate,Parking Garage,134,2970,9,NA
+SITE_0517,517,3,1,435,3081,589,0.77,5,3,20900,1,1.9,Delayed,Yes,Level 2,Candidate,Parking Garage,39,1350,7,NA
+SITE_0518,518,2,0,800,16109,1421,1.98,3,9,20100,1,10.2,Declined,No,Level 2,Candidate,Commercial Parking Lot,21,2220,7,NA
+SITE_0519,519,4,1,1031,17616,2218,1.35,6,8,22400,1,13.2,Accepted,Yes,Level 2,Existing,Commercial Parking Lot,138,3000,8,12
+SITE_0520,520,5,0,1047,16712,1963,1.29,6,11,73600,2,14.1,Accepted,No,DC Fast,Candidate,Street Parking,180,1330,5,NA
+SITE_0521,521,5,0,445,12538,824,5.45,0,3,8800,1,12.2,Delayed,No,Level 2,Candidate,Commercial Parking Lot,92,1900,2,NA
+SITE_0522,522,1,0,719,10141,1451,2.75,2,5,24200,1,11.3,Declined,No,Level 2,Candidate,Retail Parking Lot,104,780,5,NA
+SITE_0523,523,5,0,1231,18249,1726,2.98,5,5,11600,1,13.9,Accepted,No,Level 2,Candidate,Parking Garage,136,1540,2,NA
+SITE_0524,524,2,0,428,8949,922,1.63,3,4,16800,1,8.6,Declined,No,Level 2,Candidate,Commercial Parking Lot,160,1340,10,NA
+SITE_0525,525,4,0,1260,16647,1731,0.8,5,6,24300,1,10.9,Delayed,No,Level 2,Candidate,Parking Garage,142,550,9,NA
+SITE_0526,526,5,1,786,13660,1363,2.91,3,3,100300,2,14.4,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,144,2250,8,NA
+SITE_0527,527,3,0,981,7307,948,2.89,3,7,13100,1,13.8,Delayed,No,Level 2,Candidate,Parking Garage,78,2000,3,NA
+SITE_0528,528,4,1,961,12042,1361,2.55,4,5,9900,1,9.3,Accepted,Yes,Level 2,Candidate,Street Parking,173,2450,8,NA
+SITE_0529,529,3,1,727,13450,1370,2.85,3,4,77500,2,9.8,Accepted,Yes,DC Fast,Candidate,Parking Garage,94,570,3,NA
+SITE_0530,530,3,1,829,11878,1212,3.3,2,7,16500,1,12.1,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,49,2090,6,NA
+SITE_0531,531,4,1,661,9733,373,4.65,0,5,65400,2,11.7,Accepted,Yes,DC Fast,Candidate,Street Parking,125,1960,6,NA
+SITE_0532,532,4,0,1135,14416,1785,2.19,3,7,8500,1,17,Delayed,No,Level 2,Candidate,Parking Garage,99,2340,5,NA
+SITE_0533,533,3,0,1660,21919,2019,0.15,8,7,9600,1,13.4,Delayed,No,Level 2,Candidate,Commercial Parking Lot,175,2760,4,NA
+SITE_0534,534,4,0,941,7574,492,0.86,4,7,21500,1,10.6,Delayed,No,Level 2,Candidate,Street Parking,140,1290,7,NA
+SITE_0535,535,1,0,397,3819,74,3.78,0,3,24700,1,5.1,Declined,No,Level 2,Candidate,Parking Garage,48,610,1,NA
+SITE_0536,536,4,0,498,4130,378,3.52,3,4,143500,2,8.9,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,147,2080,3,NA
+SITE_0537,537,2,0,955,14888,1841,2.6,2,9,19500,1,14.9,Declined,No,Level 2,Candidate,Commercial Parking Lot,153,860,6,NA
+SITE_0538,538,3,0,698,16722,1495,2.01,3,7,22200,1,12.8,Declined,No,Level 2,Candidate,Commercial Parking Lot,137,2100,5,NA
+SITE_0539,539,4,1,695,8166,588,2.5,1,5,118400,2,10.9,Accepted,Yes,DC Fast,Candidate,Street Parking,112,2750,8,NA
+SITE_0540,540,4,1,1039,16368,1588,3.89,1,7,9000,1,13.7,Accepted,Yes,Level 2,Candidate,Parking Garage,74,1460,8,NA
+SITE_0541,541,5,1,579,13957,1130,1.45,4,4,24000,1,10,Accepted,Yes,Level 2,Candidate,Street Parking,56,2030,3,NA
+SITE_0542,542,2,0,862,11454,553,1.46,3,6,15600,1,8.7,Declined,No,Level 2,Candidate,Commercial Parking Lot,55,2600,10,NA
+SITE_0543,543,3,0,782,11867,1275,2.27,4,6,9900,1,11.3,Delayed,No,Level 2,Candidate,Commercial Parking Lot,79,2990,1,NA
+SITE_0544,544,2,1,492,2433,545,3.38,1,4,10900,1,4.4,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,127,2950,1,NA
+SITE_0545,545,3,0,1460,20604,2104,0.93,6,12,90900,2,20.4,Declined,No,DC Fast,Candidate,Commercial Parking Lot,77,2620,3,NA
+SITE_0546,546,4,0,1520,20303,1645,2.02,3,10,19500,1,18.3,Delayed,No,Level 2,Candidate,Commercial Parking Lot,104,920,5,NA
+SITE_0547,547,2,1,1093,13044,1511,0.66,6,5,94900,2,14.6,Delayed,Yes,DC Fast,Candidate,Street Parking,88,2130,1,NA
+SITE_0548,548,4,0,1403,18659,1879,0.22,5,10,86900,2,15.8,Declined,No,DC Fast,Candidate,Commercial Parking Lot,91,1370,4,NA
+SITE_0549,549,5,0,1126,17217,1438,4.63,2,6,114900,2,16.3,Delayed,No,DC Fast,Candidate,Parking Garage,86,2360,6,NA
+SITE_0550,550,4,0,426,3805,275,3.71,1,4,20300,1,7.4,Delayed,No,Level 2,Candidate,Street Parking,121,440,1,NA
+SITE_0551,551,2,1,1059,16534,1775,1.38,4,10,121200,2,15.9,Declined,Yes,DC Fast,Candidate,Commercial Parking Lot,99,1740,2,NA
+SITE_0552,552,4,1,681,12467,223,2.99,2,5,90000,2,13.7,Accepted,Yes,DC Fast,Candidate,Street Parking,74,1130,1,NA
+SITE_0553,553,5,0,1077,8540,838,4.64,1,7,17900,1,14,Delayed,No,Level 2,Candidate,Street Parking,38,1090,10,NA
+SITE_0554,554,4,0,1200,10178,2130,2.35,3,5,22600,1,12.9,Declined,No,Level 2,Candidate,Retail Parking Lot,169,2320,10,NA
+SITE_0555,555,4,1,1404,16213,1404,2.54,3,13,16300,1,17.4,Accepted,Yes,Level 2,Candidate,Parking Garage,40,880,6,NA
+SITE_0556,556,3,1,919,11203,828,4.93,0,3,138300,2,14,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,53,2560,7,NA
+SITE_0557,557,3,0,858,13476,1584,1.46,4,7,96600,2,11.8,Declined,No,DC Fast,Candidate,Parking Garage,145,2020,5,NA
+SITE_0558,558,1,1,956,15144,1991,2.42,4,8,17700,1,13.6,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,111,1090,3,NA
+SITE_0559,559,4,0,423,9437,1031,0.73,6,10,9100,1,8.2,Declined,No,Level 2,Candidate,Commercial Parking Lot,127,1030,2,NA
+SITE_0560,560,3,0,100,2413,382,3.96,0,2,14800,1,4.6,Delayed,No,Level 2,Candidate,Retail Parking Lot,172,1080,1,NA
+SITE_0561,561,5,0,1044,19464,1662,2.46,3,11,133900,2,16.7,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,50,680,2,NA
+SITE_0562,562,2,0,955,16234,1457,3.36,3,8,17300,1,14.4,Declined,No,Level 2,Candidate,Retail Parking Lot,20,2270,2,NA
+SITE_0563,563,1,0,1064,14167,1719,3.06,3,9,9300,1,15,Declined,No,Level 2,Candidate,Commercial Parking Lot,79,1870,9,NA
+SITE_0564,564,3,1,718,14121,618,1.73,3,1,138400,2,7.4,Delayed,Yes,DC Fast,Candidate,Retail Parking Lot,156,2270,8,NA
+SITE_0565,565,4,0,1013,15577,2487,1.09,5,9,24800,1,12.1,Delayed,No,Level 2,Candidate,Street Parking,77,1950,5,NA
+SITE_0566,566,3,0,1071,11978,1576,3.25,1,6,8600,1,13.6,Declined,No,Level 2,Candidate,Street Parking,169,2470,4,NA
+SITE_0567,567,3,0,714,14222,1572,2.16,3,7,19700,1,11.7,Declined,No,Level 2,Candidate,Retail Parking Lot,74,2730,7,NA
+SITE_0568,568,5,0,724,13895,1375,2.79,3,4,23600,1,10.6,Delayed,No,Level 2,Candidate,Parking Garage,36,2330,7,NA
+SITE_0569,569,5,0,1446,16841,2876,1.34,6,14,111900,2,19.9,Delayed,No,DC Fast,Candidate,Parking Garage,163,2740,5,NA
+SITE_0570,570,4,1,688,19500,1489,3.84,2,7,16200,1,14.6,Delayed,Yes,Level 2,Candidate,Street Parking,77,620,6,NA
+SITE_0571,571,3,0,50,2625,50,4.4,1,0,20900,1,5.1,Declined,No,Level 2,Candidate,Commercial Parking Lot,135,2910,7,NA
+SITE_0572,572,5,0,771,9523,898,3.93,1,8,23800,1,12.6,Delayed,No,Level 2,Candidate,Street Parking,94,2790,6,NA
+SITE_0573,573,4,1,948,12740,1958,1.14,5,9,83600,2,14.3,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,90,1010,9,NA
+SITE_0574,574,4,1,852,8315,1086,5.2,0,1,14700,1,13.3,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,111,2120,2,NA
+SITE_0575,575,4,1,604,7634,788,5.55,0,7,9300,1,12.8,Accepted,Yes,Level 2,Candidate,Street Parking,64,2250,9,NA
+SITE_0576,576,4,0,202,6043,932,2.43,2,4,127900,2,9.3,Delayed,No,DC Fast,Candidate,Street Parking,21,2080,3,NA
+SITE_0577,577,1,0,1138,14095,1711,1.31,4,5,16200,1,13.4,Declined,No,Level 2,Candidate,Commercial Parking Lot,50,1110,5,NA
+SITE_0578,578,3,0,993,12169,474,2.41,3,4,12600,1,10.8,Delayed,No,Level 2,Candidate,Retail Parking Lot,74,1070,8,NA
+SITE_0579,579,3,0,647,14419,772,1.35,4,5,64400,2,10.4,Delayed,No,DC Fast,Candidate,Parking Garage,149,2580,10,NA
+SITE_0580,580,5,1,575,8175,701,2.26,3,4,14800,1,8.5,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,70,580,6,NA
+SITE_0581,581,2,0,755,10469,1521,3.96,1,7,10500,1,11.6,Declined,No,Level 2,Candidate,Commercial Parking Lot,130,1540,6,NA
+SITE_0582,582,5,1,659,6495,1725,3.33,2,8,11400,1,13.6,Accepted,Yes,Level 2,Candidate,Parking Garage,64,2430,5,NA
+SITE_0583,583,4,1,473,9387,728,2.37,5,4,128900,2,8.9,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,30,1040,3,NA
+SITE_0584,584,4,1,1302,19099,1686,2.45,2,8,22200,1,15.6,Accepted,Yes,Level 2,Candidate,Street Parking,130,2010,1,NA
+SITE_0585,585,1,0,1065,19368,1940,2.14,3,10,19300,1,16.9,Declined,No,Level 2,Candidate,Street Parking,176,1600,1,NA
+SITE_0586,586,4,1,951,10238,743,3.13,2,6,17200,1,10.4,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,62,1320,6,NA
+SITE_0587,587,5,1,945,8820,1058,1.65,4,6,18400,1,11.9,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,134,1350,6,NA
+SITE_0588,588,2,0,936,11184,1916,0.46,4,5,21200,1,10.4,Declined,No,Level 2,Candidate,Parking Garage,24,1940,1,NA
+SITE_0589,589,3,0,1494,22402,1800,0.9,6,9,135200,2,16.8,Declined,No,DC Fast,Candidate,Parking Garage,22,1520,6,NA
+SITE_0590,590,3,0,660,11407,832,2.17,4,3,60700,2,10.4,Declined,No,DC Fast,Candidate,Street Parking,21,2340,4,NA
+SITE_0591,591,2,0,436,9811,115,3.3,2,4,22300,1,8.6,Declined,No,Level 2,Candidate,Street Parking,87,2120,9,NA
+SITE_0592,592,4,0,1074,11348,1387,2.74,2,10,67500,2,15.8,Delayed,No,DC Fast,Candidate,Parking Garage,74,1910,10,NA
+SITE_0593,593,3,0,1195,12356,1201,4.02,3,4,13300,1,11.3,Delayed,No,Level 2,Candidate,Parking Garage,117,2670,5,NA
+SITE_0594,594,3,0,645,19290,1291,1.4,3,9,18800,1,11.9,Declined,No,Level 2,Candidate,Parking Garage,83,2940,9,NA
+SITE_0595,595,3,0,800,8808,1426,3.74,2,1,23700,1,7.2,Delayed,No,Level 2,Candidate,Commercial Parking Lot,172,540,4,NA
+SITE_0596,596,4,1,906,14851,2260,2.32,5,7,107000,2,14.5,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,160,890,8,NA
+SITE_0597,597,3,1,1252,22954,2267,0.1,7,8,19900,1,11.1,Delayed,Yes,Level 2,Candidate,Parking Garage,142,2190,1,NA
+SITE_0598,598,1,0,1006,7358,1294,2.07,3,9,10600,1,13.2,Declined,No,Level 2,Candidate,Street Parking,177,1870,8,NA
+SITE_0599,599,3,0,1490,19724,2273,1.8,5,10,21700,1,14.4,Declined,No,Level 2,Candidate,Street Parking,157,1700,7,NA
+SITE_0600,600,1,1,493,6946,268,3.22,3,3,65700,2,7.2,Declined,Yes,DC Fast,Candidate,Retail Parking Lot,89,2050,4,NA
+SITE_0601,601,3,0,467,12354,187,2.56,3,4,24200,1,6.5,Declined,No,Level 2,Candidate,Street Parking,90,1550,6,NA
+SITE_0602,602,5,1,1197,17422,1241,3.33,2,10,11900,1,14.8,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,39,1010,5,NA
+SITE_0603,603,3,0,121,9977,823,0.3,7,5,23900,1,8.1,Declined,No,Level 2,Candidate,Street Parking,155,1710,3,NA
+SITE_0604,604,5,0,1228,13686,1863,2.04,4,8,13800,1,13.4,Accepted,No,Level 2,Candidate,Parking Garage,145,1560,3,NA
+SITE_0605,605,4,0,634,12119,628,2.52,3,5,18800,1,10.6,Declined,No,Level 2,Candidate,Parking Garage,41,2340,6,NA
+SITE_0606,606,4,1,1490,15996,2094,0.1,8,11,23200,1,13.9,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,76,1350,5,NA
+SITE_0607,607,2,0,1117,9412,1291,2.37,2,4,11800,1,9.2,Declined,No,Level 2,Candidate,Street Parking,169,1600,2,NA
+SITE_0608,608,5,0,802,12282,1183,1.44,5,0,8600,1,8.2,Delayed,No,Level 2,Candidate,Retail Parking Lot,113,2430,8,NA
+SITE_0609,609,4,1,790,12976,1728,2,4,10,23000,1,11.3,Accepted,Yes,Level 2,Candidate,Parking Garage,123,2340,8,NA
+SITE_0610,610,2,0,393,8835,786,2.93,3,4,116800,2,7.9,Declined,No,DC Fast,Candidate,Commercial Parking Lot,87,2680,3,NA
+SITE_0611,611,4,0,569,9604,1644,2,3,5,13000,1,6.9,Declined,No,Level 2,Candidate,Retail Parking Lot,128,2890,2,NA
+SITE_0612,612,3,0,837,11202,1914,2.47,4,9,17100,1,12.6,Declined,No,Level 2,Candidate,Street Parking,164,1070,8,NA
+SITE_0613,613,4,1,1216,22456,1420,2.56,4,6,13600,1,14.6,Accepted,Yes,Level 2,Candidate,Parking Garage,70,1990,4,NA
+SITE_0614,614,5,1,555,9357,933,3.66,1,5,9800,1,8.6,Accepted,Yes,Level 2,Candidate,Parking Garage,120,2100,1,NA
+SITE_0615,615,1,0,1215,17202,1688,1.94,4,11,24600,1,15,Declined,No,Level 2,Candidate,Parking Garage,124,1250,8,NA
+SITE_0616,616,5,0,830,11899,1335,4.1,3,6,12300,1,14.2,Delayed,No,Level 2,Candidate,Commercial Parking Lot,180,1560,1,NA
+SITE_0617,617,5,0,944,8526,966,1.2,4,5,90600,2,11.8,Delayed,No,DC Fast,Candidate,Retail Parking Lot,117,720,3,NA
+SITE_0618,618,5,1,1089,20242,1098,1.61,4,7,94000,2,17.1,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,138,1610,7,NA
+SITE_0619,619,5,1,834,12716,1106,1.91,4,8,18400,1,12.8,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,56,1760,3,NA
+SITE_0620,620,4,1,1252,13935,1159,4.24,3,9,112800,2,14.5,Accepted,Yes,DC Fast,Candidate,Parking Garage,104,380,2,NA
+SITE_0621,621,4,0,1055,18105,1572,1.15,5,11,12600,1,13.5,Accepted,No,Level 2,Candidate,Parking Garage,175,1030,6,NA
+SITE_0622,622,3,0,767,9681,402,1.31,5,9,12200,1,7.2,Declined,No,Level 2,Candidate,Commercial Parking Lot,26,1660,4,NA
+SITE_0623,623,3,0,50,4029,276,3.43,0,3,14500,1,7,Declined,No,Level 2,Candidate,Commercial Parking Lot,66,2080,4,NA
+SITE_0624,624,5,0,502,8503,450,5.14,0,7,13900,1,9.5,Accepted,No,Level 2,Candidate,Commercial Parking Lot,121,650,8,NA
+SITE_0625,625,2,1,1106,13019,989,1.87,4,4,9300,1,11.1,Delayed,Yes,Level 2,Candidate,Parking Garage,44,770,5,NA
+SITE_0626,626,3,0,1099,12670,1229,4.3,0,6,113100,2,15.8,Declined,No,DC Fast,Candidate,Street Parking,138,1860,5,NA
+SITE_0627,627,1,0,511,2030,361,3.46,0,4,82500,2,10.6,Declined,No,DC Fast,Candidate,Commercial Parking Lot,122,1890,7,NA
+SITE_0628,628,2,0,781,12494,588,3.27,3,4,17200,1,9,Declined,No,Level 2,Candidate,Commercial Parking Lot,131,1280,9,NA
+SITE_0629,629,4,1,789,12245,849,3.87,1,2,15000,1,9.7,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,159,2800,5,NA
+SITE_0630,630,1,1,462,11615,853,3.85,0,7,17200,1,13,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,99,300,7,NA
+SITE_0631,631,4,0,785,10398,977,2.98,1,2,8800,1,9.9,Delayed,No,Level 2,Candidate,Retail Parking Lot,151,560,3,NA
+SITE_0632,632,3,1,657,12508,402,3.82,1,5,136500,2,11.6,Delayed,Yes,DC Fast,Candidate,Retail Parking Lot,56,2550,4,NA
+SITE_0633,633,4,0,1225,20997,2531,1.24,6,11,8300,1,17.3,Delayed,No,Level 2,Candidate,Retail Parking Lot,128,2520,1,NA
+SITE_0634,634,2,0,945,14050,665,2.33,3,5,11700,1,10.1,Declined,No,Level 2,Candidate,Retail Parking Lot,109,2130,3,NA
+SITE_0635,635,4,0,396,8040,343,3.66,2,4,16000,1,8.4,Declined,No,Level 2,Candidate,Commercial Parking Lot,80,790,8,NA
+SITE_0636,636,2,0,432,6883,665,4.61,0,2,8700,1,8,Declined,No,Level 2,Candidate,Street Parking,124,2430,1,NA
+SITE_0637,637,2,0,1002,15105,799,2,4,5,11900,1,11.6,Declined,No,Level 2,Candidate,Commercial Parking Lot,105,1230,1,NA
+SITE_0638,638,5,1,1532,15953,2017,0.1,7,14,126400,2,17.4,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,150,2870,10,NA
+SITE_0639,639,5,0,714,14924,2017,2.38,3,6,24800,1,13.6,Delayed,No,Level 2,Candidate,Parking Garage,131,620,1,NA
+SITE_0640,640,3,1,337,5143,571,4.09,1,2,9300,1,6.4,Delayed,Yes,Level 2,Candidate,Parking Garage,36,2080,4,NA
+SITE_0641,641,1,1,592,13621,1296,2.56,4,7,24400,1,10.9,Delayed,Yes,Level 2,Candidate,Parking Garage,106,2940,8,NA
+SITE_0642,642,5,0,788,8982,1159,2.31,2,5,24900,1,8.6,Delayed,No,Level 2,Candidate,Commercial Parking Lot,30,780,10,NA
+SITE_0643,643,5,0,722,9958,799,3.9,2,6,12900,1,12.7,Accepted,No,Level 2,Candidate,Parking Garage,146,2490,2,NA
+SITE_0644,644,3,1,615,12685,1274,1.4,6,4,14700,1,6.2,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,27,2650,10,NA
+SITE_0645,645,3,0,1645,23801,2583,0.1,5,14,8900,1,21.6,Declined,No,Level 2,Candidate,Retail Parking Lot,39,740,1,NA
+SITE_0646,646,1,1,1253,19819,1886,0.1,7,9,12200,1,11.8,Delayed,Yes,Level 2,Candidate,Parking Garage,26,1350,9,NA
+SITE_0647,647,1,1,484,9405,750,2.85,1,1,72400,2,9.3,Declined,Yes,DC Fast,Candidate,Retail Parking Lot,44,2790,9,NA
+SITE_0648,648,3,0,905,12399,1202,0.1,6,7,20700,1,7.5,Delayed,No,Level 2,Candidate,Street Parking,169,2580,5,NA
+SITE_0649,649,2,0,1053,19236,1295,0.94,4,4,122800,2,15.6,Declined,No,DC Fast,Candidate,Street Parking,118,1580,5,NA
+SITE_0650,650,3,0,1133,14403,2063,1.47,5,12,13300,1,14.8,Declined,No,Level 2,Candidate,Retail Parking Lot,73,2970,1,NA
+SITE_0651,651,2,0,649,11244,2386,2.67,4,5,136300,2,9.8,Declined,No,DC Fast,Candidate,Parking Garage,151,820,9,NA
+SITE_0652,652,5,1,1211,21805,2020,3.19,3,9,16300,1,18.9,Accepted,Yes,Level 2,Candidate,Street Parking,157,2840,10,NA
+SITE_0653,653,2,0,207,7464,839,2.91,2,1,11900,1,3.5,Declined,No,Level 2,Candidate,Commercial Parking Lot,171,460,7,NA
+SITE_0654,654,4,0,838,14411,1579,2.86,3,10,16800,1,11.7,Delayed,No,Level 2,Candidate,Retail Parking Lot,52,2440,4,NA
+SITE_0655,655,3,0,617,13770,384,3.84,1,5,20900,1,13.8,Declined,No,Level 2,Candidate,Street Parking,135,1070,7,NA
+SITE_0656,656,4,0,399,11155,563,4.14,1,7,72900,2,12.2,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,146,1080,3,NA
+SITE_0657,657,5,0,1377,14834,1988,1.33,5,8,99900,2,15.2,Delayed,No,DC Fast,Candidate,Parking Garage,155,1080,4,NA
+SITE_0658,658,3,1,1528,22273,2123,2.31,2,15,141700,2,23.8,Declined,Yes,DC Fast,Candidate,Street Parking,74,2820,7,NA
+SITE_0659,659,2,1,935,13694,1612,0.44,5,9,24800,1,6.9,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,47,2850,2,NA
+SITE_0660,660,1,1,1156,12821,1322,4.99,2,9,117600,2,18.4,Declined,Yes,DC Fast,Candidate,Parking Garage,132,760,3,NA
+SITE_0661,661,4,0,582,11635,1578,1.9,2,5,13200,1,9.2,Declined,No,Level 2,Candidate,Parking Garage,175,880,8,NA
+SITE_0662,662,3,0,1004,13807,1649,0.23,7,6,128700,2,11.6,Declined,No,DC Fast,Candidate,Commercial Parking Lot,127,2650,10,NA
+SITE_0663,663,3,1,548,6367,586,3.99,1,2,10400,1,8.8,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,49,370,8,NA
+SITE_0664,664,4,1,773,11040,717,3.03,3,9,99500,2,14,Accepted,Yes,DC Fast,Candidate,Commercial Parking Lot,86,2510,6,NA
+SITE_0665,665,4,0,1163,18558,1525,2.39,3,10,18600,1,13.5,Delayed,No,Level 2,Candidate,Parking Garage,109,1190,8,NA
+SITE_0666,666,3,1,1661,17402,2306,0.18,6,10,18000,1,17.7,Delayed,Yes,Level 2,Candidate,Street Parking,65,500,1,NA
+SITE_0667,667,4,0,732,9108,1163,0.79,4,5,22800,1,7.8,Declined,No,Level 2,Candidate,Street Parking,48,2050,4,NA
+SITE_0668,668,1,0,929,12319,1181,3.16,4,7,22600,1,13.2,Declined,No,Level 2,Candidate,Retail Parking Lot,147,590,10,NA
+SITE_0669,669,4,0,520,2379,318,3,1,0,14000,1,7.5,Declined,No,Level 2,Candidate,Street Parking,131,2190,8,NA
+SITE_0670,670,2,0,111,2815,50,4.46,0,0,18100,1,4.6,Declined,No,Level 2,Candidate,Parking Garage,127,2700,8,NA
+SITE_0671,671,5,0,764,10521,1018,1.21,4,6,77100,2,11,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,136,800,9,NA
+SITE_0672,672,2,0,361,8323,835,4.11,1,4,10900,1,9.4,Declined,No,Level 2,Candidate,Commercial Parking Lot,127,990,10,NA
+SITE_0673,673,3,0,627,12516,753,2.82,2,9,11600,1,12.4,Declined,No,Level 2,Candidate,Street Parking,159,860,4,NA
+SITE_0674,674,3,0,850,8349,1625,3.11,1,8,92700,2,15.3,Declined,No,DC Fast,Candidate,Retail Parking Lot,150,750,2,NA
+SITE_0675,675,4,0,1639,23515,1928,3.36,2,8,76100,2,22.6,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,78,2900,10,NA
+SITE_0676,676,2,0,1182,18978,2207,3.12,3,12,20400,1,17.1,Declined,No,Level 2,Candidate,Retail Parking Lot,27,1340,4,NA
+SITE_0677,677,5,0,1076,14394,1815,2.5,3,10,120600,2,16.5,Accepted,No,DC Fast,Candidate,Retail Parking Lot,97,350,3,NA
+SITE_0678,678,1,0,731,15033,582,3.44,1,9,9400,1,14.4,Declined,No,Level 2,Candidate,Retail Parking Lot,79,1360,8,NA
+SITE_0679,679,5,1,961,20780,1999,2.07,3,7,17400,1,15.7,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,75,480,5,NA
+SITE_0680,680,1,0,379,3862,390,2.17,2,1,148400,2,4.6,Declined,No,DC Fast,Candidate,Parking Garage,94,1310,9,NA
+SITE_0681,681,5,0,471,7851,654,2.8,2,8,15100,1,10.8,Delayed,No,Level 2,Candidate,Street Parking,45,950,7,NA
+SITE_0682,682,4,1,188,4295,256,1.2,5,3,8300,1,3.4,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,96,2780,4,NA
+SITE_0683,683,5,0,647,13606,1249,2.23,4,8,21400,1,10.3,Accepted,No,Level 2,Candidate,Retail Parking Lot,145,1690,9,NA
+SITE_0684,684,3,0,635,9823,1583,0.66,4,5,63400,2,10.7,Declined,No,DC Fast,Candidate,Parking Garage,71,1690,9,NA
+SITE_0685,685,2,1,878,20892,1809,1.02,5,12,141700,2,16.4,Delayed,Yes,DC Fast,Candidate,Street Parking,35,930,2,NA
+SITE_0686,686,3,0,1277,13515,1484,1.92,3,8,21300,1,13.5,Delayed,No,Level 2,Candidate,Street Parking,136,670,7,NA
+SITE_0687,687,4,0,795,11668,1310,1.82,4,4,123500,2,10.4,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,85,770,10,NA
+SITE_0688,688,3,0,754,11596,1376,4.32,1,4,121100,2,13.6,Declined,No,DC Fast,Candidate,Commercial Parking Lot,51,2480,10,NA
+SITE_0689,689,4,0,260,15356,1362,4.25,0,3,18100,1,10.5,Delayed,No,Level 2,Candidate,Parking Garage,25,1290,7,NA
+SITE_0690,690,4,1,893,13542,1518,3.66,3,9,18200,1,12.8,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,20,630,10,NA
+SITE_0691,691,2,1,1368,16411,2395,0.1,6,9,18300,1,14.9,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,51,2360,2,NA
+SITE_0692,692,3,0,415,12214,1357,5.39,0,5,12100,1,11.3,Delayed,No,Level 2,Candidate,Parking Garage,171,2620,4,NA
+SITE_0693,693,5,0,650,11424,821,1.83,3,3,23800,1,11.6,Delayed,No,Level 2,Candidate,Parking Garage,38,1740,1,NA
+SITE_0694,694,3,1,90,5384,50,4.46,0,5,17200,1,5.9,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,55,1900,6,NA
+SITE_0695,695,2,0,361,6356,200,1.91,3,2,13100,1,4.9,Declined,No,Level 2,Candidate,Commercial Parking Lot,126,490,3,NA
+SITE_0696,696,5,0,540,9085,1514,1.38,3,9,91300,2,11.7,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,48,2530,7,NA
+SITE_0697,697,3,0,640,7675,420,4.74,2,7,65200,2,13.5,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,50,640,9,NA
+SITE_0698,698,4,1,949,9388,1553,0.1,7,9,22700,1,6.3,Accepted,Yes,Level 2,Candidate,Parking Garage,102,1350,5,NA
+SITE_0699,699,5,0,358,11825,1691,1.19,4,4,11800,1,8.8,Accepted,No,Level 2,Candidate,Parking Garage,30,860,5,NA
+SITE_0700,700,3,0,767,10742,744,2.67,3,6,8300,1,9.3,Declined,No,Level 2,Candidate,Street Parking,149,1320,4,NA
+SITE_0701,701,2,1,220,10422,1129,3.81,2,4,15900,1,7.2,Delayed,Yes,Level 2,Candidate,Street Parking,130,1590,10,NA
+SITE_0702,702,3,0,591,12011,384,4.53,0,3,8200,1,11.4,Delayed,No,Level 2,Candidate,Commercial Parking Lot,101,1640,10,NA
+SITE_0703,703,4,0,924,10554,787,2.5,3,5,10200,1,10.9,Declined,No,Level 2,Candidate,Retail Parking Lot,78,1020,6,NA
+SITE_0704,704,4,0,405,7036,386,2.73,3,0,16500,1,6.3,Declined,No,Level 2,Candidate,Commercial Parking Lot,120,2040,4,NA
+SITE_0705,705,1,0,345,6299,893,3.27,2,6,16200,1,7.6,Declined,No,Level 2,Candidate,Commercial Parking Lot,153,2940,4,NA
+SITE_0706,706,3,0,1538,24069,2230,0.1,7,11,19900,1,15.5,Declined,No,Level 2,Candidate,Retail Parking Lot,178,2300,3,NA
+SITE_0707,707,4,0,540,11789,961,0.65,5,4,8100,1,7.6,Delayed,No,Level 2,Candidate,Parking Garage,130,1210,2,NA
+SITE_0708,708,5,0,786,6846,1072,2.48,3,5,11000,1,7.7,Delayed,No,Level 2,Candidate,Street Parking,85,2860,4,NA
+SITE_0709,709,4,0,712,11562,1369,0.1,6,5,84200,2,10.9,Delayed,No,DC Fast,Candidate,Retail Parking Lot,87,1670,6,NA
+SITE_0710,710,3,1,1116,12367,1635,2.2,4,14,135000,2,17,Delayed,Yes,DC Fast,Candidate,Street Parking,41,1330,1,NA
+SITE_0711,711,3,1,849,14092,1690,3.58,2,10,68300,2,15,Delayed,Yes,DC Fast,Candidate,Street Parking,41,2020,3,NA
+SITE_0712,712,5,1,571,11425,813,2.16,5,6,19300,1,7.9,Accepted,Yes,Level 2,Candidate,Parking Garage,159,2230,8,NA
+SITE_0713,713,5,0,173,7403,547,4.18,1,3,101600,2,10.3,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,75,1310,9,NA
+SITE_0714,714,4,0,729,11705,1990,3.4,2,4,126500,2,14.3,Declined,No,DC Fast,Candidate,Retail Parking Lot,83,2600,7,NA
+SITE_0715,715,4,0,1122,13968,903,1.72,4,11,24900,1,12.5,Declined,No,Level 2,Candidate,Commercial Parking Lot,163,1260,7,NA
+SITE_0716,716,1,1,838,6733,971,3.26,3,5,10200,1,9.6,Declined,Yes,Level 2,Candidate,Retail Parking Lot,150,740,2,NA
+SITE_0717,717,4,0,831,16434,1757,0.39,6,5,19000,1,10.2,Delayed,No,Level 2,Candidate,Commercial Parking Lot,114,2020,9,NA
+SITE_0718,718,3,0,775,14390,1407,3.32,2,8,9800,1,12.6,Declined,No,Level 2,Candidate,Parking Garage,78,1640,3,NA
+SITE_0719,719,4,0,1311,15878,1498,0.95,4,7,16200,1,13.5,Delayed,No,Level 2,Candidate,Street Parking,40,780,9,NA
+SITE_0720,720,5,0,1467,17566,1564,0.1,6,10,10000,1,15.8,Accepted,No,Level 2,Candidate,Parking Garage,172,1550,6,NA
+SITE_0721,721,2,0,1036,12173,1393,2.63,3,9,87200,2,15.3,Declined,No,DC Fast,Candidate,Retail Parking Lot,71,890,10,NA
+SITE_0722,722,3,0,314,3498,495,5.21,0,0,98700,2,9.2,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,35,1840,6,NA
+SITE_0723,723,4,1,965,13699,1464,2.57,2,6,15400,1,13.7,Delayed,Yes,Level 2,Candidate,Parking Garage,109,390,1,NA
+SITE_0724,724,5,1,836,13913,847,2.81,3,4,16800,1,8.2,Accepted,Yes,Level 2,Candidate,Street Parking,135,930,1,NA
+SITE_0725,725,4,0,933,16308,1391,0.62,6,6,9400,1,10.7,Declined,No,Level 2,Candidate,Street Parking,130,810,10,NA
+SITE_0726,726,2,0,281,9974,864,3.82,1,7,22800,1,11.8,Declined,No,Level 2,Candidate,Commercial Parking Lot,57,2140,8,NA
+SITE_0727,727,4,0,1391,15073,2311,1.98,4,7,19000,1,16.2,Delayed,No,Level 2,Candidate,Parking Garage,77,1550,6,NA
+SITE_0728,728,4,0,717,14280,1932,1.96,4,7,17000,1,11.5,Delayed,No,Level 2,Candidate,Commercial Parking Lot,20,870,4,NA
+SITE_0729,729,2,1,1069,13675,1343,3.29,2,7,15400,1,12.4,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,108,1070,4,NA
+SITE_0730,730,3,0,577,6632,667,5.06,2,4,68100,2,11,Declined,No,DC Fast,Candidate,Parking Garage,128,2990,3,NA
+SITE_0731,731,2,1,1491,20623,2848,3.13,6,11,8900,1,17.2,Delayed,Yes,Level 2,Candidate,Parking Garage,53,640,7,NA
+SITE_0732,732,3,0,660,9801,995,0.66,7,7,70400,2,9,Delayed,No,DC Fast,Candidate,Retail Parking Lot,161,570,6,NA
+SITE_0733,733,4,0,825,13207,1252,3.08,3,6,147400,2,13.2,Declined,No,DC Fast,Candidate,Commercial Parking Lot,58,1680,10,NA
+SITE_0734,734,4,0,661,13885,646,1.9,4,3,12300,1,7.7,Declined,No,Level 2,Candidate,Retail Parking Lot,37,1310,2,NA
+SITE_0735,735,3,0,581,11739,891,3.03,2,0,19100,1,9,Declined,No,Level 2,Candidate,Parking Garage,57,2180,7,NA
+SITE_0736,736,2,1,618,11743,1148,3.14,1,5,9100,1,10.3,Declined,Yes,Level 2,Candidate,Parking Garage,133,890,7,NA
+SITE_0737,737,5,1,1367,22005,1347,0.94,5,11,24400,1,17.2,Accepted,Yes,Level 2,Existing,Street Parking,24,520,8,14
+SITE_0738,738,4,0,1471,22932,2594,0.1,8,9,8500,1,14.6,Declined,No,Level 2,Candidate,Street Parking,28,350,4,NA
+SITE_0739,739,5,0,693,11229,705,1.34,5,6,114100,2,9.7,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,131,2730,5,NA
+SITE_0740,740,5,1,512,11433,1366,4.39,0,5,104800,2,14.4,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,89,1520,10,NA
+SITE_0741,741,5,0,1042,19969,1649,0.62,5,10,15100,1,13.5,Declined,No,Level 2,Candidate,Parking Garage,91,2270,1,NA
+SITE_0742,742,4,1,1447,26628,1878,2.78,2,14,16700,1,21.1,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,146,1690,6,NA
+SITE_0743,743,5,0,635,4119,810,4.77,2,3,10300,1,7.5,Delayed,No,Level 2,Candidate,Retail Parking Lot,82,2240,6,NA
+SITE_0744,744,4,1,909,9886,527,2.82,2,8,18800,1,13.4,Delayed,Yes,Level 2,Candidate,Parking Garage,120,1620,5,NA
+SITE_0745,745,5,0,1119,16149,2276,0.1,5,8,16500,1,12.3,Delayed,No,Level 2,Candidate,Commercial Parking Lot,165,510,10,NA
+SITE_0746,746,3,0,898,17640,1624,2.7,3,5,19400,1,10.9,Declined,No,Level 2,Candidate,Street Parking,107,2810,6,NA
+SITE_0747,747,4,0,227,11721,1174,3.8,1,5,133600,2,12.2,Declined,No,DC Fast,Candidate,Commercial Parking Lot,104,900,2,NA
+SITE_0748,748,1,0,1281,15602,1660,0.25,5,6,20100,1,11.8,Declined,No,Level 2,Candidate,Parking Garage,39,2220,7,NA
+SITE_0749,749,1,1,50,1000,50,4.22,0,0,18200,1,3.4,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,140,1610,3,NA
+SITE_0750,750,2,0,1122,15029,1496,1.58,4,6,15300,1,13.5,Declined,No,Level 2,Candidate,Parking Garage,60,2700,1,NA
+SITE_0751,751,3,0,673,15372,1557,2.69,2,9,10000,1,13.9,Declined,No,Level 2,Candidate,Street Parking,127,310,4,NA
+SITE_0752,752,4,1,1086,15659,549,2.66,3,7,8600,1,10.1,Accepted,Yes,Level 2,Candidate,Street Parking,24,2780,4,NA
+SITE_0753,753,5,0,725,11352,1114,2.09,4,10,11100,1,11.4,Delayed,No,Level 2,Candidate,Street Parking,112,2770,3,NA
+SITE_0754,754,5,0,1193,10727,999,2.88,3,4,15000,1,13.1,Delayed,No,Level 2,Candidate,Retail Parking Lot,39,1300,9,NA
+SITE_0755,755,4,0,863,12686,823,3.85,2,5,68400,2,16.1,Declined,No,DC Fast,Candidate,Retail Parking Lot,86,1660,8,NA
+SITE_0756,756,3,1,265,7621,497,3.02,2,4,74300,2,6.2,Delayed,Yes,DC Fast,Candidate,Street Parking,131,900,7,NA
+SITE_0757,757,3,1,240,7059,492,4.21,0,2,78400,2,6.9,Accepted,Yes,DC Fast,Candidate,Street Parking,45,740,7,NA
+SITE_0758,758,4,1,1005,12358,1110,2.22,3,7,22600,1,11.6,Delayed,Yes,Level 2,Candidate,Parking Garage,128,360,2,NA
+SITE_0759,759,2,0,441,6208,364,4.33,0,4,23300,1,7.9,Declined,No,Level 2,Candidate,Retail Parking Lot,54,1950,10,NA
+SITE_0760,760,4,1,1305,24222,2359,2.52,4,13,83700,2,24,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,87,2620,5,NA
+SITE_0761,761,5,0,1212,19361,1656,3.94,2,8,13400,1,15.7,Delayed,No,Level 2,Candidate,Parking Garage,44,2630,2,NA
+SITE_0762,762,3,1,624,10743,1714,2.49,3,9,19600,1,9.5,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,99,490,2,NA
+SITE_0763,763,5,1,913,15734,1281,2.39,5,5,21400,1,10.3,Accepted,Yes,Level 2,Existing,Street Parking,57,450,3,8.3
+SITE_0764,764,1,1,1337,19633,2738,0.73,6,11,10700,1,15.2,Declined,Yes,Level 2,Candidate,Parking Garage,149,730,1,NA
+SITE_0765,765,4,0,708,13621,1128,2.52,3,9,17300,1,13.1,Delayed,No,Level 2,Candidate,Commercial Parking Lot,105,1800,10,NA
+SITE_0766,766,4,1,974,19792,1031,2.8,3,6,12300,1,16.1,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,33,1000,7,NA
+SITE_0767,767,5,0,1069,11175,1619,2.52,4,6,22800,1,11.5,Delayed,No,Level 2,Candidate,Retail Parking Lot,29,1220,10,NA
+SITE_0768,768,2,0,1220,20219,1921,0.98,5,12,10100,1,16.5,Declined,No,Level 2,Candidate,Street Parking,111,1570,4,NA
+SITE_0769,769,3,0,559,7344,1172,3.83,2,6,24900,1,10.2,Declined,No,Level 2,Candidate,Street Parking,88,1730,6,NA
+SITE_0770,770,4,0,1006,8696,1285,2.36,3,11,8400,1,11.8,Declined,No,Level 2,Candidate,Street Parking,91,410,9,NA
+SITE_0771,771,4,1,666,5408,642,5.04,1,7,10500,1,13.5,Accepted,Yes,Level 2,Existing,Retail Parking Lot,57,2320,6,7.8
+SITE_0772,772,1,1,414,5017,536,2.36,5,3,18100,1,4.2,Declined,Yes,Level 2,Candidate,Parking Garage,176,1610,2,NA
+SITE_0773,773,5,0,133,1000,50,1.89,3,1,105800,2,1.1,Delayed,No,DC Fast,Candidate,Street Parking,162,2010,2,NA
+SITE_0774,774,4,0,742,11108,563,2.61,3,11,9000,1,12.8,Delayed,No,Level 2,Candidate,Street Parking,86,820,10,NA
+SITE_0775,775,3,0,958,15389,1848,0.46,4,7,60900,2,14.6,Declined,No,DC Fast,Candidate,Commercial Parking Lot,100,1160,8,NA
+SITE_0776,776,4,0,319,6623,781,4.09,1,5,73200,2,7.3,Declined,No,DC Fast,Candidate,Street Parking,168,820,2,NA
+SITE_0777,777,4,0,525,11592,1106,4.97,1,9,22100,1,13.7,Delayed,No,Level 2,Candidate,Commercial Parking Lot,92,2840,10,NA
+SITE_0778,778,5,1,815,5593,1595,1.67,5,6,76300,2,8.6,Accepted,Yes,DC Fast,Candidate,Street Parking,94,1500,9,NA
+SITE_0779,779,5,1,1307,14027,2692,1.34,4,10,17000,1,15.5,Accepted,Yes,Level 2,Candidate,Street Parking,49,2200,7,NA
+SITE_0780,780,5,0,260,7944,485,3.54,0,0,80600,2,10.5,Delayed,No,DC Fast,Candidate,Retail Parking Lot,82,1840,7,NA
+SITE_0781,781,4,1,1778,22731,2152,0.1,8,10,22800,1,17.9,Delayed,Yes,Level 2,Candidate,Street Parking,21,2980,3,NA
+SITE_0782,782,2,0,775,12135,1544,1.33,4,8,120300,2,12.4,Declined,No,DC Fast,Candidate,Commercial Parking Lot,95,620,7,NA
+SITE_0783,783,1,0,959,14975,1532,2.8,3,7,71100,2,13.9,Declined,No,DC Fast,Candidate,Street Parking,51,2770,2,NA
+SITE_0784,784,4,1,50,1478,298,3.48,2,0,20100,1,3.6,Delayed,Yes,Level 2,Candidate,Parking Garage,160,2670,2,NA
+SITE_0785,785,4,1,1596,17242,1024,2.91,3,11,99100,2,22.3,Delayed,Yes,DC Fast,Candidate,Street Parking,132,520,8,NA
+SITE_0786,786,2,1,1136,14052,907,2.98,5,8,13000,1,11.5,Declined,Yes,Level 2,Candidate,Retail Parking Lot,73,880,8,NA
+SITE_0787,787,5,0,469,10533,1053,2.08,4,3,18400,1,7.9,Delayed,No,Level 2,Candidate,Street Parking,20,1860,7,NA
+SITE_0788,788,3,0,461,14702,426,2.55,4,3,8500,1,8.4,Declined,No,Level 2,Candidate,Retail Parking Lot,177,1110,3,NA
+SITE_0789,789,3,1,1155,11430,946,2.29,3,4,24400,1,12.8,Delayed,Yes,Level 2,Candidate,Street Parking,129,1570,6,NA
+SITE_0790,790,3,1,344,9469,617,2.93,2,2,14700,1,8.1,Declined,Yes,Level 2,Candidate,Street Parking,23,1150,1,NA
+SITE_0791,791,4,1,402,7349,734,4.22,2,8,17600,1,5.8,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,178,2380,1,NA
+SITE_0792,792,4,0,50,3185,50,4.54,0,1,82700,2,6.4,Delayed,No,DC Fast,Candidate,Retail Parking Lot,111,1720,9,NA
+SITE_0793,793,5,0,482,12236,852,0.14,8,7,23100,1,3.8,Delayed,No,Level 2,Candidate,Retail Parking Lot,137,2290,8,NA
+SITE_0794,794,4,0,344,10624,1035,4.54,0,6,87400,2,11.6,Delayed,No,DC Fast,Candidate,Retail Parking Lot,96,1420,1,NA
+SITE_0795,795,3,0,687,11499,399,2.46,3,3,23100,1,6.2,Declined,No,Level 2,Candidate,Street Parking,153,2080,1,NA
+SITE_0796,796,5,0,462,7866,1672,4.65,0,4,17400,1,12.4,Delayed,No,Level 2,Candidate,Retail Parking Lot,51,830,6,NA
+SITE_0797,797,1,0,773,12957,1201,3.85,3,4,11100,1,11.6,Declined,No,Level 2,Candidate,Commercial Parking Lot,74,1960,9,NA
+SITE_0798,798,5,0,663,7944,912,2.04,3,3,69100,2,10.7,Declined,No,DC Fast,Candidate,Commercial Parking Lot,163,590,9,NA
+SITE_0799,799,4,0,1008,22320,2242,1.96,4,10,16600,1,17.4,Delayed,No,Level 2,Candidate,Commercial Parking Lot,169,2420,8,NA
+SITE_0800,800,3,1,1424,23600,2592,0.1,7,12,12900,1,16.9,Declined,Yes,Level 2,Candidate,Parking Garage,27,940,1,NA
+SITE_0801,801,1,0,469,5039,363,4.93,1,1,23600,1,5.8,Declined,No,Level 2,Candidate,Commercial Parking Lot,146,710,4,NA
+SITE_0802,802,3,0,563,12548,1467,2.62,3,4,14300,1,9.5,Declined,No,Level 2,Candidate,Street Parking,130,2630,1,NA
+SITE_0803,803,5,0,327,11682,1146,2.12,3,3,18100,1,8.2,Accepted,No,Level 2,Candidate,Retail Parking Lot,147,1190,1,NA
+SITE_0804,804,2,0,774,13352,501,2.16,3,3,15400,1,11.2,Declined,No,Level 2,Candidate,Parking Garage,166,2420,4,NA
+SITE_0805,805,4,0,1008,15156,2065,1.37,4,13,14300,1,15,Declined,No,Level 2,Candidate,Commercial Parking Lot,120,2400,4,NA
+SITE_0806,806,1,0,824,12319,1407,3.77,0,8,17300,1,12.2,Declined,No,Level 2,Candidate,Retail Parking Lot,51,2240,7,NA
+SITE_0807,807,3,1,573,9058,50,3.61,2,4,22200,1,6,Accepted,Yes,Level 2,Existing,Retail Parking Lot,49,2740,10,3.8
+SITE_0808,808,1,1,357,11181,781,4.7,0,5,9100,1,9.4,Delayed,Yes,Level 2,Candidate,Street Parking,85,980,8,NA
+SITE_0809,809,4,1,272,11124,521,2.15,3,4,22800,1,6.4,Delayed,Yes,Level 2,Candidate,Parking Garage,105,2760,1,NA
+SITE_0810,810,2,1,601,9247,1009,2.9,2,7,23300,1,8.3,Declined,Yes,Level 2,Candidate,Street Parking,60,1380,4,NA
+SITE_0811,811,4,1,1097,17663,2118,1.25,5,10,105000,2,16.7,Delayed,Yes,DC Fast,Candidate,Commercial Parking Lot,70,2090,4,NA
+SITE_0812,812,2,0,516,9888,71,0.59,5,5,18300,1,2.6,Declined,No,Level 2,Candidate,Retail Parking Lot,59,780,9,NA
+SITE_0813,813,1,0,1013,12526,1489,0.91,6,8,85500,2,11.3,Declined,No,DC Fast,Candidate,Commercial Parking Lot,54,2140,6,NA
+SITE_0814,814,5,0,439,7655,50,0.1,6,9,12200,1,3.3,Declined,No,Level 2,Candidate,Parking Garage,141,1270,3,NA
+SITE_0815,815,1,1,50,1222,214,3.48,1,2,14300,1,3.1,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,45,2030,7,NA
+SITE_0816,816,2,0,424,9968,864,2.82,3,4,15900,1,5.8,Declined,No,Level 2,Candidate,Street Parking,100,2840,6,NA
+SITE_0817,817,5,0,255,3226,195,2.97,1,3,18900,1,4.2,Delayed,No,Level 2,Candidate,Retail Parking Lot,87,1980,1,NA
+SITE_0818,818,4,0,1741,19440,2254,0.1,6,9,8500,1,17.9,Declined,No,Level 2,Candidate,Retail Parking Lot,156,1250,6,NA
+SITE_0819,819,4,0,1177,11314,1686,3.45,2,12,111400,2,18.1,Declined,No,DC Fast,Candidate,Street Parking,134,2460,6,NA
+SITE_0820,820,5,1,847,14140,1371,2.87,4,5,18200,1,11.4,Accepted,Yes,Level 2,Candidate,Parking Garage,83,2610,5,NA
+SITE_0821,821,5,1,459,11579,1054,2.66,3,5,8200,1,10.9,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,85,2030,10,NA
+SITE_0822,822,4,0,1037,11295,1181,4.01,2,6,19800,1,12.3,Delayed,No,Level 2,Candidate,Retail Parking Lot,177,500,1,NA
+SITE_0823,823,4,0,898,13936,878,2.34,2,2,20600,1,11.8,Declined,No,Level 2,Candidate,Retail Parking Lot,175,2480,3,NA
+SITE_0824,824,3,1,592,10637,1075,3.7,2,5,132000,2,14.5,Delayed,Yes,DC Fast,Candidate,Commercial Parking Lot,76,2140,4,NA
+SITE_0825,825,5,0,542,7759,609,2.71,3,6,22300,1,8,Delayed,No,Level 2,Candidate,Street Parking,41,2940,10,NA
+SITE_0826,826,1,1,592,9616,1574,2.58,3,7,13000,1,10.1,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,72,2280,2,NA
+SITE_0827,827,2,1,752,18235,594,1.33,5,7,140900,2,11.1,Delayed,Yes,DC Fast,Candidate,Commercial Parking Lot,112,1260,6,NA
+SITE_0828,828,4,0,522,7490,585,3.91,2,5,115000,2,10.2,Declined,No,DC Fast,Candidate,Parking Garage,70,1300,7,NA
+SITE_0829,829,5,0,1002,14443,1241,2.96,3,8,22100,1,13.8,Delayed,No,Level 2,Candidate,Parking Garage,101,2720,8,NA
+SITE_0830,830,4,1,429,5910,513,5.05,0,1,14900,1,8.3,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,22,1680,9,NA
+SITE_0831,831,3,0,947,10874,1316,1.99,3,4,24500,1,10,Declined,No,Level 2,Candidate,Retail Parking Lot,176,2590,10,NA
+SITE_0832,832,3,1,547,9557,1271,0.65,6,4,10500,1,6.5,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,47,480,4,NA
+SITE_0833,833,2,0,1361,19304,1892,1.22,5,8,17900,1,15.4,Declined,No,Level 2,Candidate,Street Parking,92,2960,7,NA
+SITE_0834,834,5,1,378,11012,1166,3.85,3,5,19600,1,7.7,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,30,1610,3,NA
+SITE_0835,835,2,0,828,10868,813,0.1,5,9,66600,2,11,Declined,No,DC Fast,Candidate,Street Parking,88,350,4,NA
+SITE_0836,836,1,0,1513,18579,1723,0.27,5,10,10700,1,17.1,Declined,No,Level 2,Candidate,Retail Parking Lot,155,2090,10,NA
+SITE_0837,837,5,0,784,13954,1368,2.62,3,6,9800,1,9.3,Declined,No,Level 2,Candidate,Parking Garage,105,2930,3,NA
+SITE_0838,838,2,0,1032,13540,1882,3.02,4,10,23200,1,13.8,Declined,No,Level 2,Candidate,Retail Parking Lot,59,1650,2,NA
+SITE_0839,839,3,1,1107,13851,200,4.72,1,2,21900,1,10.8,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,59,1780,8,NA
+SITE_0840,840,5,0,780,13658,839,4.36,2,6,149300,2,16.8,Accepted,No,DC Fast,Candidate,Parking Garage,157,1370,9,NA
+SITE_0841,841,2,0,447,12757,1344,3.96,1,7,19900,1,10.8,Declined,No,Level 2,Candidate,Commercial Parking Lot,74,2330,10,NA
+SITE_0842,842,2,0,384,10467,518,4.81,1,2,9300,1,9.5,Declined,No,Level 2,Candidate,Retail Parking Lot,88,1810,6,NA
+SITE_0843,843,5,0,700,9671,1361,2.8,4,3,11800,1,7.9,Declined,No,Level 2,Candidate,Parking Garage,64,930,5,NA
+SITE_0844,844,2,0,905,13081,1033,2.48,4,5,19000,1,9.9,Declined,No,Level 2,Candidate,Parking Garage,94,1170,8,NA
+SITE_0845,845,1,0,206,12771,1037,1.68,4,0,11100,1,5.8,Declined,No,Level 2,Candidate,Commercial Parking Lot,129,660,10,NA
+SITE_0846,846,5,1,729,8778,568,1.53,4,6,13900,1,7.1,Accepted,Yes,Level 2,Candidate,Parking Garage,95,500,9,NA
+SITE_0847,847,4,0,1196,14323,1010,4.02,3,6,149400,2,14.5,Delayed,No,DC Fast,Candidate,Parking Garage,89,800,10,NA
+SITE_0848,848,5,1,713,6897,806,3.13,1,8,22200,1,9.1,Accepted,Yes,Level 2,Existing,Retail Parking Lot,125,1860,10,8.7
+SITE_0849,849,3,1,523,8629,582,3.35,3,5,20900,1,8.6,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,172,2440,7,NA
+SITE_0850,850,4,0,740,16204,671,2.6,4,6,132000,2,13.5,Declined,No,DC Fast,Candidate,Parking Garage,54,470,6,NA
+SITE_0851,851,2,0,268,4544,712,3.6,1,2,8300,1,5.5,Declined,No,Level 2,Candidate,Street Parking,65,1320,1,NA
+SITE_0852,852,4,1,1305,18766,1367,3.52,3,11,15400,1,18.2,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,149,940,8,NA
+SITE_0853,853,4,0,509,7654,1288,3.41,2,5,13600,1,7,Delayed,No,Level 2,Candidate,Retail Parking Lot,46,2960,4,NA
+SITE_0854,854,3,1,50,5960,1314,3.76,1,2,125700,2,10.7,Delayed,Yes,DC Fast,Candidate,Commercial Parking Lot,98,330,2,NA
+SITE_0855,855,4,0,580,11607,1933,3.39,2,3,13800,1,7.7,Declined,No,Level 2,Candidate,Street Parking,95,1760,10,NA
+SITE_0856,856,5,0,994,17051,1224,1.73,5,9,19500,1,12,Delayed,No,Level 2,Candidate,Retail Parking Lot,124,1670,7,NA
+SITE_0857,857,5,0,841,5698,1272,3.24,3,5,22800,1,10.1,Delayed,No,Level 2,Candidate,Commercial Parking Lot,44,2230,4,NA
+SITE_0858,858,5,0,666,11414,713,2.79,3,3,19800,1,12.2,Declined,No,Level 2,Candidate,Commercial Parking Lot,75,1610,1,NA
+SITE_0859,859,4,1,874,12848,1768,2.21,3,6,8000,1,12.5,Delayed,Yes,Level 2,Candidate,Street Parking,153,1610,2,NA
+SITE_0860,860,3,1,1217,17001,1736,1.57,4,10,10100,1,14.3,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,118,520,4,NA
+SITE_0861,861,3,0,529,6454,477,2.93,2,4,11800,1,7.8,Declined,No,Level 2,Candidate,Parking Garage,94,2320,7,NA
+SITE_0862,862,3,0,1262,12205,901,0.69,6,4,15200,1,6.8,Declined,No,Level 2,Candidate,Parking Garage,92,2430,8,NA
+SITE_0863,863,2,1,600,12468,1281,0.84,5,5,9700,1,10.1,Delayed,Yes,Level 2,Candidate,Street Parking,57,2830,8,NA
+SITE_0864,864,3,1,1029,11502,1423,4.05,1,6,16700,1,13.4,Declined,Yes,Level 2,Candidate,Parking Garage,157,2450,9,NA
+SITE_0865,865,1,1,537,9858,1458,3.83,1,7,12700,1,11.1,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,78,2230,5,NA
+SITE_0866,866,5,0,1240,13491,1157,2.71,3,7,17900,1,12,Delayed,No,Level 2,Candidate,Retail Parking Lot,146,1160,7,NA
+SITE_0867,867,3,0,849,15161,1488,1.59,3,10,11800,1,11,Declined,No,Level 2,Candidate,Street Parking,114,1400,8,NA
+SITE_0868,868,4,0,294,9271,1619,3.82,2,6,137500,2,9,Declined,No,DC Fast,Candidate,Commercial Parking Lot,157,460,2,NA
+SITE_0869,869,2,0,655,15235,1457,0.63,6,4,94100,2,7.4,Declined,No,DC Fast,Candidate,Parking Garage,77,1270,8,NA
+SITE_0870,870,5,0,836,12638,1068,2.32,2,12,8500,1,11.7,Declined,No,Level 2,Candidate,Commercial Parking Lot,96,1660,5,NA
+SITE_0871,871,4,0,1256,14419,1381,3.91,1,10,21000,1,17.6,Delayed,No,Level 2,Candidate,Retail Parking Lot,167,1000,7,NA
+SITE_0872,872,1,1,586,13844,865,3.09,2,8,64100,2,14.2,Declined,Yes,DC Fast,Candidate,Street Parking,172,2610,4,NA
+SITE_0873,873,3,0,873,15118,620,3.4,2,8,64900,2,13.9,Declined,No,DC Fast,Candidate,Commercial Parking Lot,127,1340,4,NA
+SITE_0874,874,4,1,848,10139,1389,0.65,5,3,19700,1,11.1,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,112,1040,3,NA
+SITE_0875,875,4,0,867,10564,323,1.86,4,7,13700,1,11.3,Delayed,No,Level 2,Candidate,Parking Garage,78,2960,3,NA
+SITE_0876,876,5,1,450,9639,1082,2.4,3,8,23800,1,8.9,Accepted,Yes,Level 2,Candidate,Retail Parking Lot,169,2610,9,NA
+SITE_0877,877,4,0,1450,21961,2019,0.1,7,12,16600,1,14.1,Declined,No,Level 2,Candidate,Street Parking,94,910,1,NA
+SITE_0878,878,5,0,790,13774,855,3.01,3,9,16600,1,12.1,Delayed,No,Level 2,Candidate,Retail Parking Lot,68,1200,6,NA
+SITE_0879,879,1,1,795,9680,835,4.13,0,8,81600,2,13,Declined,Yes,DC Fast,Candidate,Commercial Parking Lot,26,2570,1,NA
+SITE_0880,880,4,0,438,7667,774,4.37,0,5,11300,1,8.5,Delayed,No,Level 2,Candidate,Retail Parking Lot,78,1420,9,NA
+SITE_0881,881,2,0,476,13955,1825,3.29,0,5,9100,1,14.5,Declined,No,Level 2,Candidate,Retail Parking Lot,156,2430,7,NA
+SITE_0882,882,5,1,813,11310,1374,0.92,6,6,124900,2,11,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,26,1310,3,NA
+SITE_0883,883,5,0,744,16676,1747,0.67,5,5,11900,1,11.7,Accepted,No,Level 2,Candidate,Retail Parking Lot,121,1210,4,NA
+SITE_0884,884,4,0,862,12753,1266,3.44,3,6,14900,1,10.4,Declined,No,Level 2,Candidate,Parking Garage,93,980,5,NA
+SITE_0885,885,4,0,739,10150,654,1.06,6,4,11100,1,6.1,Declined,No,Level 2,Candidate,Street Parking,160,330,7,NA
+SITE_0886,886,3,0,703,12853,1833,2.16,5,9,20900,1,12.7,Declined,No,Level 2,Candidate,Parking Garage,33,480,10,NA
+SITE_0887,887,4,0,1172,15875,1728,0.1,8,7,19500,1,11.3,Declined,No,Level 2,Candidate,Commercial Parking Lot,169,2860,10,NA
+SITE_0888,888,4,1,179,11157,1149,4.97,0,7,12700,1,12.7,Delayed,Yes,Level 2,Candidate,Parking Garage,113,1690,4,NA
+SITE_0889,889,5,0,890,12184,600,5.05,0,6,10000,1,10.2,Delayed,No,Level 2,Candidate,Commercial Parking Lot,127,1630,10,NA
+SITE_0890,890,4,1,164,11339,542,6,1,5,94700,2,10.2,Accepted,Yes,DC Fast,Candidate,Retail Parking Lot,34,1940,2,NA
+SITE_0891,891,4,1,947,11191,739,2.59,1,6,16200,1,10.1,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,129,1330,10,NA
+SITE_0892,892,4,1,281,3372,690,2.8,0,3,10300,1,6.7,Delayed,Yes,Level 2,Candidate,Parking Garage,89,1270,3,NA
+SITE_0893,893,1,0,489,6638,1337,1.39,6,7,20700,1,8.5,Declined,No,Level 2,Candidate,Parking Garage,97,1370,3,NA
+SITE_0894,894,3,1,948,20873,1380,2,3,8,24600,1,14.6,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,82,2640,4,NA
+SITE_0895,895,3,1,784,17269,1260,1.7,2,11,23000,1,13.3,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,125,2150,7,NA
+SITE_0896,896,5,0,665,13320,540,2.96,1,5,8100,1,10.4,Declined,No,Level 2,Candidate,Street Parking,170,1100,10,NA
+SITE_0897,897,5,0,603,13976,1727,2.67,3,3,10200,1,13.4,Delayed,No,Level 2,Candidate,Retail Parking Lot,157,1720,4,NA
+SITE_0898,898,3,1,1008,11567,1369,2.48,4,7,88600,2,14.5,Delayed,Yes,DC Fast,Candidate,Commercial Parking Lot,62,1970,2,NA
+SITE_0899,899,4,0,1170,20092,2364,3.38,3,13,19900,1,18.6,Declined,No,Level 2,Candidate,Street Parking,144,1570,8,NA
+SITE_0900,900,3,0,232,5881,459,3.76,0,0,12100,1,6.3,Declined,No,Level 2,Candidate,Retail Parking Lot,85,1770,2,NA
+SITE_0901,901,5,0,793,7735,878,3.14,5,3,116600,2,10.5,Declined,No,DC Fast,Candidate,Commercial Parking Lot,74,2180,4,NA
+SITE_0902,902,5,0,845,15616,1574,0.68,6,8,15700,1,10.6,Declined,No,Level 2,Candidate,Parking Garage,98,2950,6,NA
+SITE_0903,903,2,0,637,6337,758,2.6,2,4,8000,1,9.9,Declined,No,Level 2,Candidate,Parking Garage,143,1870,4,NA
+SITE_0904,904,4,1,817,14716,1291,1.35,4,10,12600,1,11.7,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,125,2240,5,NA
+SITE_0905,905,5,0,456,11511,122,3.72,2,4,12800,1,9.2,Delayed,No,Level 2,Candidate,Commercial Parking Lot,94,620,1,NA
+SITE_0906,906,4,0,1061,12796,1738,3.44,3,1,18600,1,13.5,Declined,No,Level 2,Candidate,Retail Parking Lot,174,2380,6,NA
+SITE_0907,907,3,1,954,15263,2097,0.1,6,7,23000,1,11,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,134,1230,4,NA
+SITE_0908,908,1,1,773,5113,1789,1.81,4,9,88000,2,11.4,Declined,Yes,DC Fast,Candidate,Parking Garage,165,1380,3,NA
+SITE_0909,909,1,0,673,12072,1389,1.77,5,6,20200,1,10.1,Declined,No,Level 2,Candidate,Parking Garage,172,2370,7,NA
+SITE_0910,910,3,1,613,12937,1207,1.55,4,7,10300,1,10.1,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,71,2230,2,NA
+SITE_0911,911,2,0,406,10111,791,3.87,1,5,13600,1,9.4,Declined,No,Level 2,Candidate,Street Parking,120,430,4,NA
+SITE_0912,912,4,0,50,4912,101,4.21,0,1,130400,2,9.5,Declined,No,DC Fast,Candidate,Parking Garage,175,2400,7,NA
+SITE_0913,913,5,0,1047,16910,1325,1.81,5,6,16500,1,12.7,Declined,No,Level 2,Candidate,Parking Garage,92,2820,1,NA
+SITE_0914,914,4,1,614,10751,515,1.92,2,0,22900,1,7.3,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,63,1980,1,NA
+SITE_0915,915,2,0,50,1000,50,4.53,0,0,12700,1,5.4,Declined,No,Level 2,Candidate,Retail Parking Lot,114,2980,10,NA
+SITE_0916,916,1,0,377,14239,999,2.54,4,8,15400,1,9.9,Declined,No,Level 2,Candidate,Commercial Parking Lot,35,990,4,NA
+SITE_0917,917,5,0,332,5077,917,3.03,2,3,16300,1,7.4,Declined,No,Level 2,Candidate,Parking Garage,173,2190,3,NA
+SITE_0918,918,4,1,867,12321,1201,1.44,4,7,122100,2,11.6,Delayed,Yes,DC Fast,Candidate,Retail Parking Lot,146,2390,8,NA
+SITE_0919,919,1,1,638,11534,907,4.19,1,8,18800,1,15.2,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,125,1680,10,NA
+SITE_0920,920,3,0,1081,13834,1311,3.48,3,3,77000,2,11.8,Declined,No,DC Fast,Candidate,Commercial Parking Lot,152,470,1,NA
+SITE_0921,921,5,0,1064,15953,1721,0.86,4,7,10600,1,11.9,Declined,No,Level 2,Candidate,Retail Parking Lot,120,2880,4,NA
+SITE_0922,922,2,0,414,9749,476,3.82,0,3,15700,1,8.2,Declined,No,Level 2,Candidate,Parking Garage,95,2170,6,NA
+SITE_0923,923,2,0,1079,15586,1581,2.9,3,9,105600,2,16.4,Declined,No,DC Fast,Candidate,Retail Parking Lot,118,1960,9,NA
+SITE_0924,924,2,1,827,9819,1114,5.32,0,7,24900,1,11.2,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,154,2790,3,NA
+SITE_0925,925,2,0,644,13721,1139,2.53,3,4,11100,1,11.5,Declined,No,Level 2,Candidate,Retail Parking Lot,142,400,1,NA
+SITE_0926,926,3,0,467,8057,916,4.51,2,2,139500,2,10.3,Declined,No,DC Fast,Candidate,Commercial Parking Lot,58,690,1,NA
+SITE_0927,927,2,0,865,9036,857,4.76,1,5,22500,1,12.1,Declined,No,Level 2,Candidate,Retail Parking Lot,55,1600,6,NA
+SITE_0928,928,1,1,650,11217,1073,1.53,4,6,21900,1,7.4,Declined,Yes,Level 2,Candidate,Commercial Parking Lot,123,2250,4,NA
+SITE_0929,929,2,0,398,5623,877,4,1,2,98400,2,10.3,Declined,No,DC Fast,Candidate,Commercial Parking Lot,85,590,6,NA
+SITE_0930,930,3,0,406,7715,1070,2.04,3,5,22300,1,8.3,Declined,No,Level 2,Candidate,Street Parking,139,870,9,NA
+SITE_0931,931,5,0,784,19472,1273,1.22,6,8,133300,2,11.3,Declined,No,DC Fast,Candidate,Street Parking,74,390,9,NA
+SITE_0932,932,3,0,554,12381,690,2.66,4,4,14800,1,7.5,Declined,No,Level 2,Candidate,Commercial Parking Lot,179,1060,5,NA
+SITE_0933,933,4,1,409,6627,336,5.64,0,4,60600,2,12.4,Declined,Yes,DC Fast,Candidate,Parking Garage,43,1610,5,NA
+SITE_0934,934,4,1,1107,12799,1671,2.95,3,7,72500,2,13.8,Delayed,Yes,DC Fast,Candidate,Retail Parking Lot,180,2660,3,NA
+SITE_0935,935,4,0,634,8678,512,2.77,3,0,17600,1,7.2,Declined,No,Level 2,Candidate,Retail Parking Lot,140,590,9,NA
+SITE_0936,936,2,0,685,9762,1320,4.17,2,5,24200,1,10.4,Declined,No,Level 2,Candidate,Street Parking,40,2160,4,NA
+SITE_0937,937,1,0,862,11562,1607,1.03,6,5,15000,1,8.8,Declined,No,Level 2,Candidate,Retail Parking Lot,169,2790,5,NA
+SITE_0938,938,1,0,484,10417,729,4.62,0,2,22100,1,10.8,Declined,No,Level 2,Candidate,Retail Parking Lot,54,560,2,NA
+SITE_0939,939,1,0,541,8225,1285,1.84,2,7,16200,1,10.5,Declined,No,Level 2,Candidate,Retail Parking Lot,113,300,3,NA
+SITE_0940,940,4,0,163,6105,1338,5.86,0,2,136300,2,8.1,Declined,No,DC Fast,Candidate,Parking Garage,46,500,9,NA
+SITE_0941,941,3,1,845,6918,1036,0.1,6,4,101500,2,8.5,Declined,Yes,DC Fast,Candidate,Street Parking,56,2690,10,NA
+SITE_0942,942,2,1,991,15269,2076,3.08,2,10,24900,1,16.1,Declined,Yes,Level 2,Candidate,Parking Garage,61,2930,3,NA
+SITE_0943,943,4,0,575,12590,1049,2.32,3,11,146400,2,14.1,Declined,No,DC Fast,Candidate,Retail Parking Lot,131,1370,5,NA
+SITE_0944,944,1,0,979,19644,1925,1.15,3,8,12000,1,13.2,Declined,No,Level 2,Candidate,Retail Parking Lot,29,1360,4,NA
+SITE_0945,945,4,0,257,8238,783,3.55,2,1,113300,2,8.3,Declined,No,DC Fast,Candidate,Street Parking,130,2960,2,NA
+SITE_0946,946,2,0,309,8791,1644,5.93,1,5,21800,1,9.6,Declined,No,Level 2,Candidate,Street Parking,165,760,7,NA
+SITE_0947,947,4,0,1089,10038,915,3.86,2,9,21600,1,14.7,Declined,No,Level 2,Candidate,Retail Parking Lot,135,2880,1,NA
+SITE_0948,948,4,0,969,17797,1469,3.71,1,10,23900,1,12,Declined,No,Level 2,Candidate,Parking Garage,107,950,7,NA
+SITE_0949,949,4,1,404,9561,716,3.75,2,2,147400,2,12.8,Delayed,Yes,DC Fast,Candidate,Parking Garage,37,1760,3,NA
+SITE_0950,950,3,0,585,11500,928,1.72,3,3,17900,1,4.8,Declined,No,Level 2,Candidate,Retail Parking Lot,140,1640,6,NA
+SITE_0951,951,2,0,1440,12335,1617,1.1,6,8,10600,1,12.2,Declined,No,Level 2,Candidate,Retail Parking Lot,113,800,5,NA
+SITE_0952,952,4,0,895,13568,1277,1.98,4,4,9000,1,8.7,Declined,No,Level 2,Candidate,Retail Parking Lot,171,1550,2,NA
+SITE_0953,953,3,1,770,9850,1399,0.97,5,10,15100,1,10,Delayed,Yes,Level 2,Candidate,Parking Garage,110,800,1,NA
+SITE_0954,954,4,0,814,7058,1441,3.22,3,4,71400,2,10,Declined,No,DC Fast,Candidate,Commercial Parking Lot,104,730,5,NA
+SITE_0955,955,1,0,996,15206,1903,0.1,6,8,62500,2,12.7,Declined,No,DC Fast,Candidate,Street Parking,44,460,10,NA
+SITE_0956,956,4,0,1037,18254,1683,2.27,6,9,16700,1,16.4,Declined,No,Level 2,Candidate,Street Parking,22,1760,8,NA
+SITE_0957,957,4,0,1076,10250,1084,0.2,5,3,61700,2,10.1,Delayed,No,DC Fast,Candidate,Commercial Parking Lot,162,580,10,NA
+SITE_0958,958,1,1,944,13328,1584,0.72,5,8,90000,2,13.3,Declined,Yes,DC Fast,Candidate,Commercial Parking Lot,171,2620,3,NA
+SITE_0959,959,4,0,927,12818,1081,4.7,1,7,135600,2,15.6,Declined,No,DC Fast,Candidate,Retail Parking Lot,125,1260,9,NA
+SITE_0960,960,4,1,839,11170,1511,2.24,3,4,24000,1,11,Delayed,Yes,Level 2,Candidate,Parking Garage,71,720,10,NA
+SITE_0961,961,5,1,1105,15930,1372,1.15,5,9,13500,1,10.9,Accepted,Yes,Level 2,Candidate,Commercial Parking Lot,164,2280,6,NA
+SITE_0962,962,5,0,992,12239,1780,3.1,4,6,97600,2,13.2,Declined,No,DC Fast,Candidate,Parking Garage,180,1920,5,NA
+SITE_0963,963,2,0,1198,17738,1524,1.98,5,8,14300,1,11.7,Declined,No,Level 2,Candidate,Retail Parking Lot,82,2100,5,NA
+SITE_0964,964,4,0,814,14716,1201,2.74,4,6,10800,1,11.6,Declined,No,Level 2,Candidate,Street Parking,143,1790,4,NA
+SITE_0965,965,3,0,1312,13201,2095,0.74,4,11,126300,2,15.6,Declined,No,DC Fast,Candidate,Commercial Parking Lot,147,310,4,NA
+SITE_0966,966,2,0,1158,17573,1976,0.1,7,10,11300,1,14.7,Declined,No,Level 2,Candidate,Parking Garage,51,650,3,NA
+SITE_0967,967,4,0,141,3403,50,0.91,5,0,9600,1,0.3,Declined,No,Level 2,Candidate,Retail Parking Lot,133,600,9,NA
+SITE_0968,968,4,0,420,4826,1021,0.61,4,7,23900,1,5.6,Declined,No,Level 2,Candidate,Parking Garage,102,2090,2,NA
+SITE_0969,969,1,0,1789,25624,2475,1.4,4,9,20200,1,18.8,Declined,No,Level 2,Candidate,Commercial Parking Lot,47,2880,2,NA
+SITE_0970,970,3,0,1166,14717,2289,1.34,6,5,143700,2,15,Declined,No,DC Fast,Candidate,Retail Parking Lot,103,1890,1,NA
+SITE_0971,971,1,0,493,1000,50,1.78,4,0,69000,2,5,Declined,No,DC Fast,Candidate,Retail Parking Lot,60,2050,9,NA
+SITE_0972,972,2,0,529,14268,1255,0.95,4,8,23900,1,9.5,Declined,No,Level 2,Candidate,Street Parking,95,1930,2,NA
+SITE_0973,973,2,1,1079,12262,2399,0.58,5,6,18700,1,10.1,Declined,Yes,Level 2,Candidate,Parking Garage,45,750,2,NA
+SITE_0974,974,1,1,1186,17276,1648,0.1,7,9,131300,2,12.8,Declined,Yes,DC Fast,Candidate,Commercial Parking Lot,125,570,6,NA
+SITE_0975,975,2,0,797,11950,524,3.75,2,6,14900,1,12,Declined,No,Level 2,Candidate,Commercial Parking Lot,159,1420,7,NA
+SITE_0976,976,4,0,686,9222,1163,3.1,3,2,21900,1,9.6,Declined,No,Level 2,Candidate,Retail Parking Lot,122,1910,5,NA
+SITE_0977,977,4,0,1440,18002,1528,1.1,6,9,89000,2,21.4,Delayed,No,DC Fast,Candidate,Street Parking,88,390,10,NA
+SITE_0978,978,2,0,612,10213,1475,2.68,1,1,24800,1,8.8,Declined,No,Level 2,Candidate,Parking Garage,168,560,5,NA
+SITE_0979,979,4,0,836,10916,743,4.85,0,6,102100,2,12.9,Delayed,No,DC Fast,Candidate,Parking Garage,170,2340,6,NA
+SITE_0980,980,4,1,296,12849,1003,4.83,1,3,8300,1,9.6,Delayed,Yes,Level 2,Candidate,Retail Parking Lot,117,700,8,NA
+SITE_0981,981,1,0,609,6321,954,5.48,1,2,10100,1,8.4,Declined,No,Level 2,Candidate,Street Parking,124,2300,3,NA
+SITE_0982,982,3,1,70,6595,550,4.8,1,2,138200,2,6.6,Delayed,Yes,DC Fast,Candidate,Retail Parking Lot,159,2120,1,NA
+SITE_0983,983,5,0,800,15313,1370,1.58,4,9,8300,1,11.3,Declined,No,Level 2,Candidate,Parking Garage,126,2820,3,NA
+SITE_0984,984,4,0,731,6766,380,3.02,3,3,8200,1,6.1,Declined,No,Level 2,Candidate,Retail Parking Lot,113,1870,10,NA
+SITE_0985,985,4,0,1219,11862,1296,1.56,4,10,14400,1,10.6,Declined,No,Level 2,Candidate,Retail Parking Lot,113,1450,1,NA
+SITE_0986,986,4,1,613,8877,544,2.44,3,4,15200,1,10.7,Delayed,Yes,Level 2,Candidate,Commercial Parking Lot,23,1530,9,NA
+SITE_0987,987,1,0,792,18127,1154,2.88,3,8,143800,2,14.9,Declined,No,DC Fast,Candidate,Retail Parking Lot,24,1500,4,NA
+SITE_0988,988,5,0,578,7376,1480,3.36,2,2,86800,2,9.8,Declined,No,DC Fast,Candidate,Parking Garage,166,2630,4,NA
+SITE_0989,989,4,0,1118,14307,1525,1.57,5,8,23200,1,12.3,Delayed,No,Level 2,Candidate,Parking Garage,76,1190,8,NA
+SITE_0990,990,3,0,1029,21581,2382,0.1,8,12,22500,1,14.4,Declined,No,Level 2,Candidate,Commercial Parking Lot,136,1650,1,NA
+SITE_0991,991,3,1,936,13620,1139,3.69,2,4,12200,1,12.7,Declined,Yes,Level 2,Candidate,Parking Garage,91,1490,2,NA
+SITE_0992,992,5,0,792,17791,1384,3.29,2,9,22100,1,14.3,Declined,No,Level 2,Candidate,Retail Parking Lot,25,1590,5,NA
+SITE_0993,993,5,0,1032,10167,1399,2.08,4,3,67600,2,13.3,Accepted,No,DC Fast,Candidate,Retail Parking Lot,100,2780,8,NA
+SITE_0994,994,4,0,955,13363,923,4.07,2,6,13400,1,12.2,Declined,No,Level 2,Candidate,Street Parking,85,530,3,NA
+SITE_0995,995,4,1,462,5292,354,2.56,2,3,8800,1,7,Delayed,Yes,Level 2,Candidate,Parking Garage,176,1270,3,NA
+SITE_0996,996,3,0,676,9860,628,2.89,2,3,24200,1,7.2,Declined,No,Level 2,Candidate,Commercial Parking Lot,122,1020,9,NA
+SITE_0997,997,3,1,157,2596,156,2.95,3,3,18000,1,1.9,Declined,Yes,Level 2,Candidate,Street Parking,175,1120,4,NA
+SITE_0998,998,5,0,75,9262,246,4.58,0,5,20500,1,8.2,Delayed,No,Level 2,Candidate,Retail Parking Lot,68,1750,1,NA
+SITE_0999,999,4,1,756,16386,1921,1.06,6,7,111300,2,14.7,Delayed,Yes,DC Fast,Candidate,Street Parking,26,1430,3,NA
+SITE_1000,1000,4,1,966,13176,1351,0.94,6,4,103200,2,11.9,Delayed,Yes,DC Fast,Candidate,Street Parking,79,540,2,NA
